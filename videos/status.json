@@ -1,15 +1,23 @@
 {
   "pedido": "auto6-20261128-035432",
   "estado": "executando",
-  "etapa": "tendencias",
-  "etapa_n": 1,
+  "etapa": "roteiro",
+  "etapa_n": 2,
   "total_etapas": 6,
   "iniciado_em": "2026-11-28T03:55:21-03:00",
-  "atualizado_em": "2026-11-28T03:55:21-03:00",
+  "atualizado_em": "2026-11-28T03:55:24-03:00",
   "log": [
     {
       "hora": "03:55:21",
       "msg": "Etapa 1/6: Buscando temas em alta"
+    },
+    {
+      "hora": "03:55:24",
+      "msg": "Temas (reserva): raios e para-raios"
+    },
+    {
+      "hora": "03:55:24",
+      "msg": "Etapa 2/6: Escrevendo roteiro e legenda"
     }
   ],
   "erro": "",
