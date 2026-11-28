@@ -1,15 +1,23 @@
 {
   "pedido": "auto3-20261128-031242",
   "estado": "executando",
-  "etapa": "tendencias",
-  "etapa_n": 1,
+  "etapa": "roteiro",
+  "etapa_n": 2,
   "total_etapas": 6,
   "iniciado_em": "2026-11-28T03:13:27-03:00",
-  "atualizado_em": "2026-11-28T03:13:27-03:00",
+  "atualizado_em": "2026-11-28T03:13:29-03:00",
   "log": [
     {
       "hora": "03:13:27",
       "msg": "Etapa 1/6: Buscando temas em alta"
+    },
+    {
+      "hora": "03:13:29",
+      "msg": "Temas (reserva): conta de luz | apagão | carro elétrico | energia solar | inteligência artificial na indústria"
+    },
+    {
+      "hora": "03:13:29",
+      "msg": "Etapa 2/6: Escrevendo roteiro e legenda"
     }
   ],
   "erro": "",
