@@ -1,11 +1,11 @@
 {
   "pedido": "auto-20261128-025854",
   "estado": "executando",
-  "etapa": "roteiro",
-  "etapa_n": 2,
+  "etapa": "audio",
+  "etapa_n": 3,
   "total_etapas": 6,
   "iniciado_em": "2026-11-28T02:59:39-03:00",
-  "atualizado_em": "2026-11-28T02:59:42-03:00",
+  "atualizado_em": "2026-11-28T03:04:15-03:00",
   "log": [
     {
       "hora": "02:59:40",
@@ -18,6 +18,22 @@
     {
       "hora": "02:59:42",
       "msg": "Etapa 2/6: Escrevendo roteiro e legenda"
+    },
+    {
+      "hora": "03:04:15",
+      "msg": "Roteiro escrito pelo Gemini (gemini-flash-latest)."
+    },
+    {
+      "hora": "03:04:15",
+      "msg": "Tema: travel (tempestades e apagões na rede elétrica) (171 palavras, cerca de 68 s)"
+    },
+    {
+      "hora": "03:04:15",
+      "msg": "Palavras-chave: storm lightning power lines, electric utility pole repair, electrical substation storm, lineman working power outage, city blackout aerial"
+    },
+    {
+      "hora": "03:04:15",
+      "msg": "Etapa 3/6: Gerando narração"
     }
   ],
   "erro": "",
