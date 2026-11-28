@@ -1,75 +1,20 @@
 {
-  "pedido": "auto6-20261128-035432",
-  "estado": "concluido",
-  "etapa": "concluido",
-  "etapa_n": 6,
+  "pedido": "auto7-20261128-040049",
+  "estado": "executando",
+  "etapa": "tendencias",
+  "etapa_n": 1,
   "total_etapas": 6,
-  "iniciado_em": "2026-11-28T03:55:21-03:00",
-  "atualizado_em": "2026-11-28T03:59:44-03:00",
+  "iniciado_em": "2026-11-28T04:01:35-03:00",
+  "atualizado_em": "2026-11-28T04:01:36-03:00",
   "log": [
     {
-      "hora": "03:55:21",
+      "hora": "04:01:36",
       "msg": "Etapa 1/6: Buscando temas em alta"
-    },
-    {
-      "hora": "03:55:24",
-      "msg": "Temas (reserva): raios e para-raios"
-    },
-    {
-      "hora": "03:55:24",
-      "msg": "Etapa 2/6: Escrevendo roteiro e legenda"
-    },
-    {
-      "hora": "03:57:26",
-      "msg": "Roteiro escrito pelo Gemini (gemini-flash-lite-latest)."
-    },
-    {
-      "hora": "03:57:26",
-      "msg": "Tema: raios e para-raios (146 palavras, cerca de 58 s)"
-    },
-    {
-      "hora": "03:57:26",
-      "msg": "10 cenas; buscas: lightning strike storm, lightning hitting building, industrial factory roof, lightning rod rooftop, copper grounding cable, grounding rod earth, burned electrical panel, engineer blueprinting safety, industrial control room, electrician smiling worker"
-    },
-    {
-      "hora": "03:57:26",
-      "msg": "Etapa 3/6: Gerando narração"
-    },
-    {
-      "hora": "03:57:34",
-      "msg": "Narração pronta: 145 palavras, 17 cenas."
-    },
-    {
-      "hora": "03:57:34",
-      "msg": "Etapa 4/6: Baixando vídeos da Pixabay"
-    },
-    {
-      "hora": "03:57:41",
-      "msg": "Imagens escolhidas: 16 filmagens e 1 artes do feed."
-    },
-    {
-      "hora": "03:57:41",
-      "msg": "Etapa 5/6: Renderizando no FFmpeg"
-    },
-    {
-      "hora": "03:59:36",
-      "msg": "Vídeo renderizado: 64.2 s, 17.5 MB, 17 cenas."
-    },
-    {
-      "hora": "03:59:36",
-      "msg": "Etapa 6/6: Salvando no repositório de mídia"
-    },
-    {
-      "hora": "03:59:44",
-      "msg": "Enviado ao repositório de mídia: https://github.com/universoeletrico/Universo-Eletrico-Midia/blob/videos/videos/video_viral.mp4"
-    },
-    {
-      "hora": "03:59:44",
-      "msg": "Vídeo pronto."
     }
   ],
   "erro": "",
-  "resultado": {
+  "resultado": null,
+  "ultimo_video": {
     "tema": "raios e para-raios",
     "legenda": "Os raios são um dos fenômenos mais impressionantes da natureza e representam um risco real para qualquer estrutura industrial ou residencial.\n\nO para-raios e o sistema de aterramento trabalham juntos para criar um caminho seguro, desviando milhões de volts diretamente para o solo.\n\nVocê já parou para reparar como é feita a proteção contra raios na sua empresa ou na sua rua? Deixe sua resposta nos comentários.\n\nSiga o Universo Elétrico para aprender mais.\n\n#universoeletrico #eletrica #engenhariaeletrica #automacaoindustrial #raios #pararaios #segurancaeletrica #tecnologia",
     "roteiro": "Você sabia que um raio pode atingir uma temperatura cinco vezes mais quente que a superfície do Sol? Essa descarga elétrica monstruosa carrega milhões de volts capazes de destruir qualquer construção desprotegida. É exatamente por isso que o sistema de proteção contra descargas atmosféricas é obrigatório na indústria. Conhecido popularmente como para-raios, o captor fica na parte mais alta para atrair a descarga. A corrente elétrica não passa pela estrutura do prédio, sendo guiada com segurança pelos cabos de descida. Toda essa energia gigantesca precisa ser dissipada rapidamente no solo através das hastes de aterramento. Sem um bom sistema de aterramento, a energia invade os equipamentos e causa prejuízos milionários. Engenheiros calculam cada detalhe usando normas técnicas rigorosas para garantir a eficácia da proteção. Afinal, a segurança humana e a continuidade da operação industrial dependem diretamente dessa física. Siga o Universo Elétrico para aprender mais.",
@@ -78,16 +23,6 @@
     "gerado_em": "2026-11-28T03:59:36-03:00",
     "video_path": "videos/video_viral.mp4",
     "video_commit": "16de1ebd70e4edbc6a27a3e565b9daff7b8c6469"
-  },
-  "ultimo_video": {
-    "tema": "Você já parou para pensar no caminho que a energia faz até chegar...",
-    "legenda": "Você já parou para pensar no caminho que a energia faz até chegar à sua tomada? Tudo começa numa usina, que pode ser hidrelétrica, eólica, solar ou térmica.\n\nO que você acha? Conta aqui nos comentários!\n\nSiga @universoeletrico.br para aprender mais.\n\n#universoeletrico #eletrica #tecnologia #energia #curiosidades",
-    "roteiro": "Você já parou para pensar no caminho que a energia faz até chegar à sua tomada? Tudo começa numa usina, que pode ser hidrelétrica, eólica, solar ou térmica. Lá, um gerador transforma movimento em eletricidade. Só que, para viajar centenas de quilômetros sem desperdiçar tanta energia, a tensão precisa subir muito. Quem faz isso são os transformadores elevadores, que levam a tensão a centenas de milhares de volts. Depois, as linhas de transmissão carregam essa energia por torres gigantes até as subestações perto das cidades. Ali, outros transformadores baixam a tensão para a rede de distribuição, aquela que passa pelos postes da sua rua. No poste, mais um transformador reduz a tensão para 127 ou 220 volts, que é o que chega à sua casa. Então, o medidor registra o consumo e o quadro de distribuição divide a energia entre os circuitos, protegidos por disjuntores. Tudo isso acontece em uma fração de segundo, toda vez que você aperta o interruptor. Incrível, não é? Siga o Universo Elétrico para aprender mais.",
-    "duracao_s": 72.04,
-    "tamanho_mb": 19.9,
-    "gerado_em": "2026-11-28T03:53:49-03:00",
-    "video_path": "videos/video_viral.mp4",
-    "video_commit": "17b190640f3ba287bce61965af38a56a5e936a80"
   },
   "modo": "automatico"
 }
