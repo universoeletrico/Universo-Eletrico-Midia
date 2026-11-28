@@ -1,15 +1,23 @@
 {
   "pedido": "auto5-20261128-032933",
   "estado": "executando",
-  "etapa": "tendencias",
-  "etapa_n": 1,
+  "etapa": "roteiro",
+  "etapa_n": 2,
   "total_etapas": 6,
   "iniciado_em": "2026-11-28T03:30:09-03:00",
-  "atualizado_em": "2026-11-28T03:30:09-03:00",
+  "atualizado_em": "2026-11-28T03:30:12-03:00",
   "log": [
     {
       "hora": "03:30:09",
       "msg": "Etapa 1/6: Buscando temas em alta"
+    },
+    {
+      "hora": "03:30:12",
+      "msg": "Temas (reserva): choque elétrico e segurança"
+    },
+    {
+      "hora": "03:30:12",
+      "msg": "Etapa 2/6: Escrevendo roteiro e legenda"
     }
   ],
   "erro": "",
