@@ -1,15 +1,23 @@
 {
   "pedido": "auto7-20261128-040049",
   "estado": "executando",
-  "etapa": "tendencias",
-  "etapa_n": 1,
+  "etapa": "roteiro",
+  "etapa_n": 2,
   "total_etapas": 6,
   "iniciado_em": "2026-11-28T04:01:35-03:00",
-  "atualizado_em": "2026-11-28T04:01:36-03:00",
+  "atualizado_em": "2026-11-28T04:01:38-03:00",
   "log": [
     {
       "hora": "04:01:36",
       "msg": "Etapa 1/6: Buscando temas em alta"
+    },
+    {
+      "hora": "04:01:38",
+      "msg": "Temas (reserva): como a energia chega à sua casa"
+    },
+    {
+      "hora": "04:01:38",
+      "msg": "Etapa 2/6: Escrevendo roteiro e legenda"
     }
   ],
   "erro": "",
