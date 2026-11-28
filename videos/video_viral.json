@@ -1,0 +1,68 @@
+{
+  "arquivo": "video_viral.mp4",
+  "gerado_em": "2026-11-28T03:17:34-03:00",
+  "status": "rascunho_nao_publicado",
+  "publicacao_autorizada": false,
+  "pedido": "auto3-20261128-031242",
+  "fonte_temas": "reserva",
+  "temas_em_alta": [
+    "conta de luz",
+    "apagão",
+    "carro elétrico",
+    "energia solar",
+    "inteligência artificial na indústria"
+  ],
+  "tema": "inteligencia artificial na industria",
+  "motivo": "A inteligencia artificial na industria tem alto potencial viral por unir tecnologia avancada e automacao, atraindo profissionais e curiosos do setor eletrico.",
+  "roteiro": "A inteligencia artificial esta mudando completamente o chao de fabrica e a automacao industrial no Brasil. Nao se trata apenas de robos montando pecas, mas de sistemas inteligentes que previnem falhas antes mesmo de acontecerem. Sensores conectados monitoram a temperatura e a vibracao de motores eletricos em tempo real. Quando um parametro foge do normal, o algoritmo avisa a equipe de manutencao imediatamente. Isso evita paradas nao programadas que custam muito caro para as empresas. A eficiencia energetica tambem melhora drasticamente, pois a maquina aprende a consumir apenas a energia necessaria para operar no maximo desempenho. Quem trabalha com eletricidade e automacao precisa dominar essas novas ferramentas para nao ficar para tras no mercado de trabalho. A tecnologia avanca rapido e transforma a nossa rotina profissional todos os dias. Fique atento as proximas inovacoes que vao revolucionar o setor produtivo. Siga o Universo Eletrico para aprender mais.",
+  "legenda": "A inteligencia artificial esta redefinindo os limites da automacao industrial e da engenharia eletrica. A capacidade de prever falhas e otimizar o consumo de energia em tempo real ja e uma realidade nas fabricas mais modernas do pais.\n\nProfissionais que se adaptam a essas novas tecnologias encontram espaco garantido em um mercado cada vez mais competitivo e exigente. O futuro da eletricidade e da industria passa direto pelas decisoes tomadas por algoritmos inteligentes.\n\nVoce ja trabalha com sistemas inteligentes na sua empresa ou ainda usa metodos tradicionais de manutencao? Conte para nos nos comentarios.\n\nSiga @universoeletrico.br para ficar por dentro de tudo sobre eletrica e tecnologia.\n\n#industria40 #automacaoindustrial #inteligenciaartificial #eletrica #engenhariaeletrica #tecnologia #manutencaopreventiva",
+  "keywords": [
+    "industrial robotics",
+    "factory automation",
+    "smart manufacturing",
+    "control room",
+    "futuristic technology"
+  ],
+  "ia": "gemini-flash-lite-latest",
+  "palavras": 147,
+  "voz": "pt-BR-AntonioNeural",
+  "duracao_s": 60.95,
+  "resolucao": "1080x1920",
+  "videos_pixabay": [
+    {
+      "pixabay_id": 159021,
+      "pagina": "https://pixabay.com/videos/id-159021/",
+      "autor": "Dimitri_K",
+      "query": "industrial robotics",
+      "origem": "1920x1080 horizontal (corte central)"
+    },
+    {
+      "pixabay_id": 295578,
+      "pagina": "https://pixabay.com/videos/id-295578/",
+      "autor": "GabiMedia",
+      "query": "factory automation",
+      "origem": "1080x1920 vertical"
+    },
+    {
+      "pixabay_id": 2712,
+      "pagina": "https://pixabay.com/videos/id-2712/",
+      "autor": "Pixabay",
+      "query": "smart manufacturing",
+      "origem": "1920x1080 horizontal (corte central)"
+    },
+    {
+      "pixabay_id": 264756,
+      "pagina": "https://pixabay.com/videos/id-264756/",
+      "autor": "izhar-ahamed",
+      "query": "control room",
+      "origem": "1920x1080 horizontal (corte central)"
+    },
+    {
+      "pixabay_id": 171185,
+      "pagina": "https://pixabay.com/videos/id-171185/",
+      "autor": "MozoMozo",
+      "query": "futuristic technology",
+      "origem": "1080x1881 vertical"
+    }
+  ]
+}
