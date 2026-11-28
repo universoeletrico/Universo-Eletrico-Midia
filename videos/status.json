@@ -1,11 +1,11 @@
 {
   "pedido": "auto4-20261128-032322",
   "estado": "executando",
-  "etapa": "roteiro",
-  "etapa_n": 2,
+  "etapa": "audio",
+  "etapa_n": 3,
   "total_etapas": 6,
   "iniciado_em": "2026-11-28T03:24:01-03:00",
-  "atualizado_em": "2026-11-28T03:24:03-03:00",
+  "atualizado_em": "2026-11-28T03:26:24-03:00",
   "log": [
     {
       "hora": "03:24:01",
@@ -18,6 +18,22 @@
     {
       "hora": "03:24:03",
       "msg": "Etapa 2/6: Escrevendo roteiro e legenda"
+    },
+    {
+      "hora": "03:26:24",
+      "msg": "Roteiro escrito pelo Gemini (gemini-flash-lite-latest)."
+    },
+    {
+      "hora": "03:26:24",
+      "msg": "Tema: inteligência artificial na indústria (151 palavras, cerca de 60 s)"
+    },
+    {
+      "hora": "03:26:24",
+      "msg": "Palavras-chave: industrial automation, artificial intelligence, smart factory, robotics arm, futuristic control room"
+    },
+    {
+      "hora": "03:26:24",
+      "msg": "Etapa 3/6: Gerando narração"
     }
   ],
   "erro": "",
