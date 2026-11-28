@@ -1,11 +1,11 @@
 {
   "pedido": "manual3-20261128-035041",
   "estado": "executando",
-  "etapa": "videos",
-  "etapa_n": 4,
+  "etapa": "renderizacao",
+  "etapa_n": 5,
   "total_etapas": 6,
   "iniciado_em": "2026-11-28T03:51:24-03:00",
-  "atualizado_em": "2026-11-28T03:51:28-03:00",
+  "atualizado_em": "2026-11-28T03:51:34-03:00",
   "log": [
     {
       "hora": "03:51:24",
@@ -34,6 +34,14 @@
     {
       "hora": "03:51:28",
       "msg": "Etapa 4/6: Baixando vídeos da Pixabay"
+    },
+    {
+      "hora": "03:51:34",
+      "msg": "Imagens escolhidas: 16 filmagens e 1 artes do feed."
+    },
+    {
+      "hora": "03:51:34",
+      "msg": "Etapa 5/6: Renderizando no FFmpeg"
     }
   ],
   "erro": "",
