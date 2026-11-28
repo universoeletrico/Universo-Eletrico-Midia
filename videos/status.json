@@ -1,15 +1,31 @@
 {
   "pedido": "manual2-20261128-034434",
   "estado": "executando",
-  "etapa": "roteiro",
-  "etapa_n": 2,
+  "etapa": "audio",
+  "etapa_n": 3,
   "total_etapas": 6,
   "iniciado_em": "2026-11-28T03:45:15-03:00",
-  "atualizado_em": "2026-11-28T03:45:15-03:00",
+  "atualizado_em": "2026-11-28T03:45:16-03:00",
   "log": [
     {
       "hora": "03:45:15",
       "msg": "Etapa 2/6: Escrevendo roteiro e legenda"
+    },
+    {
+      "hora": "03:45:16",
+      "msg": "Modo manual: usando o roteiro colado no painel (sem IA)."
+    },
+    {
+      "hora": "03:45:16",
+      "msg": "Tema: Você já parou para pensar no caminho que a energia faz até chegar... (170 palavras, cerca de 68 s)"
+    },
+    {
+      "hora": "03:45:16",
+      "msg": "11 cenas; buscas: electricity, hydroelectric dam, electricity, electricity, electrical transformer, power transmission lines, electrical transformer, electrical transformer, electrical panel, light switch, (dicionário vazio)"
+    },
+    {
+      "hora": "03:45:16",
+      "msg": "Etapa 3/6: Gerando narração"
     }
   ],
   "erro": "",
