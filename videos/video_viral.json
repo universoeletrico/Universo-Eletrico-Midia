@@ -1,67 +1,63 @@
 {
   "arquivo": "video_viral.mp4",
-  "gerado_em": "2026-11-28T03:27:48-03:00",
+  "gerado_em": "2026-11-28T03:33:27-03:00",
   "status": "rascunho_nao_publicado",
   "publicacao_autorizada": false,
-  "pedido": "auto4-20261128-032322",
+  "pedido": "auto5-20261128-032933",
   "fonte_temas": "reserva",
   "temas_em_alta": [
-    "conta de luz",
-    "apagão",
-    "carro elétrico",
-    "energia solar",
-    "inteligência artificial na indústria"
+    "choque elétrico e segurança"
   ],
-  "tema": "inteligência artificial na indústria",
-  "motivo": "A inteligência artificial na indústria tem alto potencial viral por unir tecnologia de ponta e automação, gerando grande curiosidade e engajamento no público técnico.",
-  "roteiro": "A inteligência artificial está transformando o chão de fábrica de uma maneira que você nunca viu antes. As máquinas agora pensam, agem e corrigem falhas sozinhas em tempo real, reduzindo paradas não programadas e otimizando a produção como nunca. Sinais vitais de motores elétricos são monitorados por algoritmos avançados que detectam o menor sinal de desgaste antes mesmo que a peça quebre. Isso significa economia milionária para as empresas e mais segurança para os operadores. A automação industrial deixou de ser apenas robôs repetitivos para se tornar um ecossistema inteligente, autônomo e altamente conectado. Quem não se adaptar a essa nova realidade tecnológica vai ficar para trás no mercado de trabalho e na competitividade global. A revolução digital já começou nas linhas de montagem do Brasil e do mundo. O futuro da engenharia exige profissionais preparados para gerenciar essas novas tecnologias todos os dias. Siga o Universo Elétrico para aprender mais.",
-  "legenda": "A inteligência artificial invadiu a indústria e está mudando completamente a forma como produzimos. A manutenção preditiva e os sistemas autônomos já são uma realidade nas grandes fábricas.\n\nVocê acredita que a sua profissão está preparada para essa nova revolução tecnológica ou acha que ainda vai demorar para chegar na sua região?\n\nDeixe sua opinião nos comentários e siga o Universo Elétrico para aprender mais.\n\n#automacaoindustrial #inteligenciaartificial #engenhariaeletrica #tecnologia #industria40 #inovacao #eletricidade",
+  "tema": "choque elétrico e segurança",
+  "motivo": "O tema tem alto potencial de engajamento e utilidade pública, focando em segurança no trabalho e conscientização sobre eletricidade.",
+  "roteiro": "Você sabe o que realmente acontece com o corpo humano durante um choque elétrico? Quando a corrente passa por nós, ela interfere diretamente nos impulsos elétricos naturais do nosso organismo, principalmente no coração. É por isso que o ritmo cardíaco pode falhar em frações de segundo. Mas o perigo não vem só da alta tensão. Correntes baixas, muitas vezes ignoradas em tomadas residenciais ou ambientes industriais, também podem ser fatais se o caminho passar pelo tórax. A boa notícia é que a prevenção é simples e salva vidas. O uso correto de equipamentos de proteção individual, a verificação constante de painéis e o respeito às normas de segurança são obrigatórios para quem trabalha com eletricidade. Nunca subestime um circuito desligado sem antes fazer a medição oficial. A eletricidade não dá segundas chances para quem descuida dos procedimentos básicos. Siga o Universo Elétrico para aprender mais.",
+  "legenda": "A segurança com a eletricidade deve ser sempre a prioridade número um em qualquer ambiente, seja industrial ou residencial. Um pequeno descuido pode custar caro, por isso o respeito às normas técnicas é inegociável.\n\nQual é o procedimento de segurança que você considera mais importante na sua rotina de trabalho? Deixe sua resposta nos comentários.\n\nSiga @universoeletrico.br para mais conteúdos sobre elétrica e automação.\n\n#eletrica #seguranca #eletricista #automacaoindustrial #engenhariaeletrica #prevencao #universoeletrico",
   "keywords": [
-    "industrial automation",
-    "artificial intelligence",
-    "smart factory",
-    "robotics arm",
-    "futuristic control room"
+    "electrician working",
+    "electrical safety gear",
+    "industrial control panel",
+    "lockout tagout procedure",
+    "multimeter testing wires"
   ],
   "ia": "gemini-flash-lite-latest",
-  "palavras": 151,
+  "palavras": 145,
   "voz": "pt-BR-AntonioNeural",
-  "duracao_s": 61.76,
+  "duracao_s": 60.13,
   "resolucao": "1080x1920",
   "videos_pixabay": [
     {
-      "pixabay_id": 295578,
-      "pagina": "https://pixabay.com/videos/id-295578/",
-      "autor": "GabiMedia",
-      "query": "industrial automation",
+      "pixabay_id": 86867,
+      "pagina": "https://pixabay.com/videos/id-86867/",
+      "autor": "atiqurrahman0047",
+      "query": "electrician working",
       "origem": "1080x1920 vertical"
     },
     {
-      "pixabay_id": 210496,
-      "pagina": "https://pixabay.com/videos/id-210496/",
-      "autor": "NickyPe",
-      "query": "artificial intelligence",
-      "origem": "1080x1909 vertical"
-    },
-    {
-      "pixabay_id": 2712,
-      "pagina": "https://pixabay.com/videos/id-2712/",
-      "autor": "Pixabay",
-      "query": "smart factory",
+      "pixabay_id": 39183,
+      "pagina": "https://pixabay.com/videos/id-39183/",
+      "autor": "movadspro",
+      "query": "electrical safety gear",
       "origem": "1920x1080 horizontal (corte central)"
     },
     {
-      "pixabay_id": 263398,
-      "pagina": "https://pixabay.com/videos/id-263398/",
-      "autor": "AdisResic",
-      "query": "robotics arm",
-      "origem": "1080x1920 vertical"
+      "pixabay_id": 118838,
+      "pagina": "https://pixabay.com/videos/id-118838/",
+      "autor": "olenchic",
+      "query": "industrial control panel",
+      "origem": "1920x1080 horizontal (corte central)"
     },
     {
-      "pixabay_id": 113357,
-      "pagina": "https://pixabay.com/videos/id-113357/",
-      "autor": "spacetrip",
-      "query": "futuristic control room",
+      "pixabay_id": 4210,
+      "pagina": "https://pixabay.com/videos/id-4210/",
+      "autor": "F1Digitals",
+      "query": "lockout tagout procedure",
+      "origem": "1920x1080 horizontal (corte central)"
+    },
+    {
+      "pixabay_id": 122,
+      "pagina": "https://pixabay.com/videos/id-122/",
+      "autor": "Coverr-Free-Footage",
+      "query": "multimeter testing wires",
       "origem": "1920x1080 horizontal (corte central)"
     }
   ]
