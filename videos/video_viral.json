@@ -1,63 +1,266 @@
 {
   "arquivo": "video_viral.mp4",
-  "gerado_em": "2026-11-28T03:33:27-03:00",
+  "gerado_em": "2026-11-28T03:47:51-03:00",
   "status": "rascunho_nao_publicado",
   "publicacao_autorizada": false,
-  "pedido": "auto5-20261128-032933",
-  "fonte_temas": "reserva",
-  "temas_em_alta": [
-    "choque elétrico e segurança"
-  ],
-  "tema": "choque elétrico e segurança",
-  "motivo": "O tema tem alto potencial de engajamento e utilidade pública, focando em segurança no trabalho e conscientização sobre eletricidade.",
-  "roteiro": "Você sabe o que realmente acontece com o corpo humano durante um choque elétrico? Quando a corrente passa por nós, ela interfere diretamente nos impulsos elétricos naturais do nosso organismo, principalmente no coração. É por isso que o ritmo cardíaco pode falhar em frações de segundo. Mas o perigo não vem só da alta tensão. Correntes baixas, muitas vezes ignoradas em tomadas residenciais ou ambientes industriais, também podem ser fatais se o caminho passar pelo tórax. A boa notícia é que a prevenção é simples e salva vidas. O uso correto de equipamentos de proteção individual, a verificação constante de painéis e o respeito às normas de segurança são obrigatórios para quem trabalha com eletricidade. Nunca subestime um circuito desligado sem antes fazer a medição oficial. A eletricidade não dá segundas chances para quem descuida dos procedimentos básicos. Siga o Universo Elétrico para aprender mais.",
-  "legenda": "A segurança com a eletricidade deve ser sempre a prioridade número um em qualquer ambiente, seja industrial ou residencial. Um pequeno descuido pode custar caro, por isso o respeito às normas técnicas é inegociável.\n\nQual é o procedimento de segurança que você considera mais importante na sua rotina de trabalho? Deixe sua resposta nos comentários.\n\nSiga @universoeletrico.br para mais conteúdos sobre elétrica e automação.\n\n#eletrica #seguranca #eletricista #automacaoindustrial #engenhariaeletrica #prevencao #universoeletrico",
+  "pedido": "manual2-20261128-034434",
+  "fonte_temas": "manual",
+  "temas_em_alta": [],
+  "tema": "Você já parou para pensar no caminho que a energia faz até chegar...",
+  "motivo": "Roteiro colado no painel",
+  "roteiro": "Você já parou para pensar no caminho que a energia faz até chegar à sua tomada? Tudo começa numa usina, que pode ser hidrelétrica, eólica, solar ou térmica. Lá, um gerador transforma movimento em eletricidade. Só que, para viajar centenas de quilômetros sem desperdiçar tanta energia, a tensão precisa subir muito. Quem faz isso são os transformadores elevadores, que levam a tensão a centenas de milhares de volts. Depois, as linhas de transmissão carregam essa energia por torres gigantes até as subestações perto das cidades. Ali, outros transformadores baixam a tensão para a rede de distribuição, aquela que passa pelos postes da sua rua. No poste, mais um transformador reduz a tensão para 127 ou 220 volts, que é o que chega à sua casa. Então, o medidor registra o consumo e o quadro de distribuição divide a energia entre os circuitos, protegidos por disjuntores. Tudo isso acontece em uma fração de segundo, toda vez que você aperta o interruptor. Incrível, não é? Siga o Universo Elétrico para aprender mais.",
+  "legenda": "Você já parou para pensar no caminho que a energia faz até chegar à sua tomada? Tudo começa numa usina, que pode ser hidrelétrica, eólica, solar ou térmica.\n\nO que você acha? Conta aqui nos comentários!\n\nSiga @universoeletrico.br para aprender mais.\n\n#universoeletrico #eletrica #tecnologia #energia #curiosidades",
   "keywords": [
-    "electrician working",
-    "electrical safety gear",
-    "industrial control panel",
-    "lockout tagout procedure",
-    "multimeter testing wires"
+    "electricity",
+    "technology",
+    "city lights at night",
+    "power lines",
+    "factory machines"
   ],
-  "ia": "gemini-flash-lite-latest",
-  "palavras": 145,
+  "cenas": [
+    {
+      "inicio_s": 0.0,
+      "fim_s": 5.2,
+      "texto": "Você já parou para pensar no caminho que a energia faz até chegar à sua tomada?",
+      "busca": "electricity",
+      "imagem": "Pixabay 307864"
+    },
+    {
+      "inicio_s": 5.2,
+      "fim_s": 10.9,
+      "texto": "Tudo começa numa usina, que pode ser hidrelétrica, eólica, solar ou térmica.",
+      "busca": "hydroelectric dam",
+      "imagem": "Pixabay 227775"
+    },
+    {
+      "inicio_s": 10.9,
+      "fim_s": 15.01,
+      "texto": "Lá, um gerador transforma movimento em eletricidade.",
+      "busca": "electricity",
+      "imagem": "Pixabay 180969"
+    },
+    {
+      "inicio_s": 15.01,
+      "fim_s": 18.62,
+      "texto": "Só que, para viajar centenas de quilômetros sem desperdiçar tanta energia, a tensão precisa subir muito.",
+      "busca": "electricity",
+      "imagem": "Pixabay 159678"
+    },
+    {
+      "inicio_s": 18.62,
+      "fim_s": 22.23,
+      "texto": "Só que, para viajar centenas de quilômetros sem desperdiçar tanta energia, a tensão precisa subir muito.",
+      "busca": "electricity",
+      "imagem": "Pixabay 2151"
+    },
+    {
+      "inicio_s": 22.23,
+      "fim_s": 25.63,
+      "texto": "Quem faz isso são os transformadores elevadores, que levam a tensão a centenas de milhares de volts.",
+      "busca": "electrical transformer",
+      "imagem": "Pixabay 106481"
+    },
+    {
+      "inicio_s": 25.63,
+      "fim_s": 29.04,
+      "texto": "Quem faz isso são os transformadores elevadores, que levam a tensão a centenas de milhares de volts.",
+      "busca": "electrical transformer",
+      "imagem": "Pixabay 106488"
+    },
+    {
+      "inicio_s": 29.04,
+      "fim_s": 32.76,
+      "texto": "Depois, as linhas de transmissão carregam essa energia por torres gigantes até as subestações perto das cidades.",
+      "busca": "power transmission lines",
+      "imagem": "Pixabay 91282"
+    },
+    {
+      "inicio_s": 32.76,
+      "fim_s": 36.48,
+      "texto": "Depois, as linhas de transmissão carregam essa energia por torres gigantes até as subestações perto das cidades.",
+      "busca": "power transmission lines",
+      "imagem": "Pixabay 4053"
+    },
+    {
+      "inicio_s": 36.48,
+      "fim_s": 40.36,
+      "texto": "Ali, outros transformadores baixam a tensão para a rede de distribuição, aquela que passa pelos postes da sua rua.",
+      "busca": "electrical transformer",
+      "imagem": "Pixabay 106496"
+    },
+    {
+      "inicio_s": 40.36,
+      "fim_s": 44.24,
+      "texto": "Ali, outros transformadores baixam a tensão para a rede de distribuição, aquela que passa pelos postes da sua rua.",
+      "busca": "electrical transformer",
+      "imagem": "Pixabay 343932"
+    },
+    {
+      "inicio_s": 44.24,
+      "fim_s": 48.17,
+      "texto": "No poste, mais um transformador reduz a tensão para 127 ou 220 volts, que é o que chega à sua casa.",
+      "busca": "electrical transformer",
+      "imagem": "Pixabay 8577"
+    },
+    {
+      "inicio_s": 48.17,
+      "fim_s": 52.1,
+      "texto": "No poste, mais um transformador reduz a tensão para 127 ou 220 volts, que é o que chega à sua casa.",
+      "busca": "electrical transformer",
+      "imagem": "Pixabay 8573"
+    },
+    {
+      "inicio_s": 52.1,
+      "fim_s": 56.33,
+      "texto": "Então, o medidor registra o consumo e o quadro de distribuição divide a energia entre os circuitos, protegidos por disjuntores.",
+      "busca": "electrical panel",
+      "imagem": "Pixabay 3013"
+    },
+    {
+      "inicio_s": 56.33,
+      "fim_s": 60.56,
+      "texto": "Então, o medidor registra o consumo e o quadro de distribuição divide a energia entre os circuitos, protegidos por disjuntores.",
+      "busca": "electrical panel",
+      "imagem": "Pixabay 72837"
+    },
+    {
+      "inicio_s": 60.56,
+      "fim_s": 66.19,
+      "texto": "Tudo isso acontece em uma fração de segundo, toda vez que você aperta o interruptor.",
+      "busca": "light switch",
+      "imagem": "Pixabay 378976"
+    },
+    {
+      "inicio_s": 66.19,
+      "fim_s": 72.04,
+      "texto": "Incrível, não é? Siga o Universo Elétrico para aprender mais.",
+      "busca": "",
+      "imagem": "Pixabay 232538"
+    }
+  ],
+  "ia": "nenhuma (manual)",
+  "palavras": 170,
   "voz": "pt-BR-AntonioNeural",
-  "duracao_s": 60.13,
+  "duracao_s": 72.04,
   "resolucao": "1080x1920",
   "videos_pixabay": [
     {
-      "pixabay_id": 86867,
-      "pagina": "https://pixabay.com/videos/id-86867/",
-      "autor": "atiqurrahman0047",
-      "query": "electrician working",
+      "fonte": "Pixabay 307864",
+      "pagina": "https://pixabay.com/videos/id-307864/",
+      "autor": "Ponnguyenduy",
+      "query": "electricity",
       "origem": "1080x1920 vertical"
     },
     {
-      "pixabay_id": 39183,
-      "pagina": "https://pixabay.com/videos/id-39183/",
-      "autor": "movadspro",
-      "query": "electrical safety gear",
+      "fonte": "Pixabay 227775",
+      "pagina": "https://pixabay.com/videos/id-227775/",
+      "autor": "dotuanmanh",
+      "query": "hydroelectric dam",
+      "origem": "1080x1920 vertical"
+    },
+    {
+      "fonte": "Pixabay 180969",
+      "pagina": "https://pixabay.com/videos/id-180969/",
+      "autor": "Matthias_Groeneveld",
+      "query": "electricity",
+      "origem": "1080x1920 vertical"
+    },
+    {
+      "fonte": "Pixabay 159678",
+      "pagina": "https://pixabay.com/videos/id-159678/",
+      "autor": "CreativeCommonsCentral",
+      "query": "electricity",
       "origem": "1920x1080 horizontal (corte central)"
     },
     {
-      "pixabay_id": 118838,
-      "pagina": "https://pixabay.com/videos/id-118838/",
-      "autor": "olenchic",
-      "query": "industrial control panel",
+      "fonte": "Pixabay 2151",
+      "pagina": "https://pixabay.com/videos/id-2151/",
+      "autor": "FindingFootage",
+      "query": "electricity",
       "origem": "1920x1080 horizontal (corte central)"
     },
     {
-      "pixabay_id": 4210,
-      "pagina": "https://pixabay.com/videos/id-4210/",
-      "autor": "F1Digitals",
-      "query": "lockout tagout procedure",
+      "fonte": "Pixabay 106481",
+      "pagina": "https://pixabay.com/videos/id-106481/",
+      "autor": "Tolmachev_Alexander",
+      "query": "electrical transformer",
+      "origem": "1922x1080 horizontal (corte central)"
+    },
+    {
+      "fonte": "Pixabay 106488",
+      "pagina": "https://pixabay.com/videos/id-106488/",
+      "autor": "Tolmachev_Alexander",
+      "query": "electrical transformer",
+      "origem": "1922x1080 horizontal (corte central)"
+    },
+    {
+      "fonte": "Pixabay 91282",
+      "pagina": "https://pixabay.com/videos/id-91282/",
+      "autor": "Kaffeesüchtig",
+      "query": "power transmission lines",
       "origem": "1920x1080 horizontal (corte central)"
     },
     {
-      "pixabay_id": 122,
-      "pagina": "https://pixabay.com/videos/id-122/",
-      "autor": "Coverr-Free-Footage",
-      "query": "multimeter testing wires",
+      "fonte": "Pixabay 4053",
+      "pagina": "https://pixabay.com/videos/id-4053/",
+      "autor": "VariousPhotography",
+      "query": "power transmission lines",
+      "origem": "1920x1080 horizontal (corte central)"
+    },
+    {
+      "fonte": "Pixabay 106496",
+      "pagina": "https://pixabay.com/videos/id-106496/",
+      "autor": "Tolmachev_Alexander",
+      "query": "electrical transformer",
+      "origem": "1922x1080 horizontal (corte central)"
+    },
+    {
+      "fonte": "Pixabay 343932",
+      "pagina": "https://pixabay.com/videos/id-343932/",
+      "autor": "mrpixel000",
+      "query": "electrical transformer",
+      "origem": "1920x1080 horizontal (corte central)"
+    },
+    {
+      "fonte": "Pixabay 8577",
+      "pagina": "https://pixabay.com/videos/id-8577/",
+      "autor": "FlanellKamerasFilm",
+      "query": "electrical transformer",
+      "origem": "1920x1080 horizontal (corte central)"
+    },
+    {
+      "fonte": "Pixabay 8573",
+      "pagina": "https://pixabay.com/videos/id-8573/",
+      "autor": "FlanellKamerasFilm",
+      "query": "electrical transformer",
+      "origem": "1920x1080 horizontal (corte central)"
+    },
+    {
+      "fonte": "Pixabay 3013",
+      "pagina": "https://pixabay.com/videos/id-3013/",
+      "autor": "InspiredImages",
+      "query": "electrical panel",
+      "origem": "1920x1080 horizontal (corte central)"
+    },
+    {
+      "fonte": "Pixabay 72837",
+      "pagina": "https://pixabay.com/videos/id-72837/",
+      "autor": "Stdudioray",
+      "query": "electrical panel",
+      "origem": "1920x1080 horizontal (corte central)"
+    },
+    {
+      "fonte": "Pixabay 378976",
+      "pagina": "https://pixabay.com/videos/id-378976/",
+      "autor": "computergottyt",
+      "query": "light switch",
+      "origem": "1920x1080 horizontal (corte central)"
+    },
+    {
+      "fonte": "Pixabay 232538",
+      "pagina": "https://pixabay.com/videos/id-232538/",
+      "autor": "Darioguzben",
+      "query": "technology",
       "origem": "1920x1080 horizontal (corte central)"
     }
   ]
