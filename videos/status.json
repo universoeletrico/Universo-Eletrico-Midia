@@ -1,0 +1,19 @@
+{
+  "pedido": "auto-20261128-025854",
+  "estado": "executando",
+  "etapa": "tendencias",
+  "etapa_n": 1,
+  "total_etapas": 6,
+  "iniciado_em": "2026-11-28T02:59:39-03:00",
+  "atualizado_em": "2026-11-28T02:59:40-03:00",
+  "log": [
+    {
+      "hora": "02:59:40",
+      "msg": "Etapa 1/6: Buscando temas em alta"
+    }
+  ],
+  "erro": "",
+  "resultado": null,
+  "ultimo_video": null,
+  "modo": "automatico"
+}
