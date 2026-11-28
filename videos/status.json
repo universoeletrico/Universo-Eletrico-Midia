@@ -1,11 +1,11 @@
 {
   "pedido": "auto6-20261128-035432",
   "estado": "executando",
-  "etapa": "audio",
-  "etapa_n": 3,
+  "etapa": "videos",
+  "etapa_n": 4,
   "total_etapas": 6,
   "iniciado_em": "2026-11-28T03:55:21-03:00",
-  "atualizado_em": "2026-11-28T03:57:26-03:00",
+  "atualizado_em": "2026-11-28T03:57:34-03:00",
   "log": [
     {
       "hora": "03:55:21",
@@ -34,6 +34,14 @@
     {
       "hora": "03:57:26",
       "msg": "Etapa 3/6: Gerando narração"
+    },
+    {
+      "hora": "03:57:34",
+      "msg": "Narração pronta: 145 palavras, 17 cenas."
+    },
+    {
+      "hora": "03:57:34",
+      "msg": "Etapa 4/6: Baixando vídeos da Pixabay"
     }
   ],
   "erro": "",
