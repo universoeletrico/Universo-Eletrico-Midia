@@ -1,15 +1,23 @@
 {
   "pedido": "auto-20261128-025854",
   "estado": "executando",
-  "etapa": "tendencias",
-  "etapa_n": 1,
+  "etapa": "roteiro",
+  "etapa_n": 2,
   "total_etapas": 6,
   "iniciado_em": "2026-11-28T02:59:39-03:00",
-  "atualizado_em": "2026-11-28T02:59:40-03:00",
+  "atualizado_em": "2026-11-28T02:59:42-03:00",
   "log": [
     {
       "hora": "02:59:40",
       "msg": "Etapa 1/6: Buscando temas em alta"
+    },
+    {
+      "hora": "02:59:42",
+      "msg": "Temas (google_trends_rss): office | cup | ring | travel | pizza"
+    },
+    {
+      "hora": "02:59:42",
+      "msg": "Etapa 2/6: Escrevendo roteiro e legenda"
     }
   ],
   "erro": "",
