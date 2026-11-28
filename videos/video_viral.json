@@ -1,267 +1,213 @@
 {
   "arquivo": "video_viral.mp4",
-  "gerado_em": "2026-11-28T03:59:36-03:00",
+  "gerado_em": "2026-11-28T04:06:28-03:00",
   "status": "rascunho_nao_publicado",
   "publicacao_autorizada": false,
-  "pedido": "auto6-20261128-035432",
+  "pedido": "auto7-20261128-040049",
   "fonte_temas": "reserva",
   "temas_em_alta": [
-    "raios e para-raios"
+    "como a energia chega à sua casa"
   ],
-  "tema": "raios e para-raios",
-  "motivo": "O tema desperta grande curiosidade e fascínio no público geral, além de ter uma ligação direta com a segurança em instalações elétricas e industriais.",
-  "roteiro": "Você sabia que um raio pode atingir uma temperatura cinco vezes mais quente que a superfície do Sol? Essa descarga elétrica monstruosa carrega milhões de volts capazes de destruir qualquer construção desprotegida. É exatamente por isso que o sistema de proteção contra descargas atmosféricas é obrigatório na indústria. Conhecido popularmente como para-raios, o captor fica na parte mais alta para atrair a descarga. A corrente elétrica não passa pela estrutura do prédio, sendo guiada com segurança pelos cabos de descida. Toda essa energia gigantesca precisa ser dissipada rapidamente no solo através das hastes de aterramento. Sem um bom sistema de aterramento, a energia invade os equipamentos e causa prejuízos milionários. Engenheiros calculam cada detalhe usando normas técnicas rigorosas para garantir a eficácia da proteção. Afinal, a segurança humana e a continuidade da operação industrial dependem diretamente dessa física. Siga o Universo Elétrico para aprender mais.",
-  "legenda": "Os raios são um dos fenômenos mais impressionantes da natureza e representam um risco real para qualquer estrutura industrial ou residencial.\n\nO para-raios e o sistema de aterramento trabalham juntos para criar um caminho seguro, desviando milhões de volts diretamente para o solo.\n\nVocê já parou para reparar como é feita a proteção contra raios na sua empresa ou na sua rua? Deixe sua resposta nos comentários.\n\nSiga o Universo Elétrico para aprender mais.\n\n#universoeletrico #eletrica #engenhariaeletrica #automacaoindustrial #raios #pararaios #segurancaeletrica #tecnologia",
+  "tema": "como a energia chega à sua casa",
+  "motivo": "O tema possui alto apelo visual e curiosidade natural do público sobre a infraestrutura elétrica que sustenta o cotidiano.",
+  "roteiro": "Você já parou para pensar em como a eletricidade viaja até acender a lâmpada da sua sala? Tudo começa em grandes usinas geradoras, que transformam fontes primárias em energia elétrica pura. Essa energia sai da usina e passa por imensos transformadores que elevam a sua tensão. Linhas de transmissão de alta voltagem transportam essa eletricidade por centenas de quilômetros. Torres metálicas gigantes sustentam esses cabos cortando o horizonte do país inteiro. Ao se aproximar das cidades, a energia chega às subestações de distribuição. Lá, a tensão é reduzida para níveis mais seguros antes de seguir para as ruas. Os postes de energia nas ruas levam os fios até a entrada do seu imóvel. Antes de entrar na sua casa, a corrente passa pelo medidor que registra todo o seu consumo. Finalmente, a energia chega ao quadro de distribuição, protegida por disjuntores modernos. E assim, com um simples clique no interruptor, a magia da tecnologia acontece. Siga o Universo Elétrico para aprender mais.",
+  "legenda": "Você já imaginou a jornada incrível que a eletricidade faz desde a usina até a tomada da sua casa? Esse caminho envolve engenharia de ponta, transformadores gigantes e muita tecnologia para garantir segurança.\n\nCada etapa desse processo é rigorosamente controlada para que você tenha energia limpa e estável a qualquer hora do dia.\n\nQual etapa dessa jornada você achou mais impressionante? Conta nos comentários!\n\nSiga @universoeletrico.br para aprender mais sobre o fascinante mundo da eletricidade.\n\n#eletrica #engenhariaeletrica #energiaeletrica #automacaoindustrial #tecnologia #manutencaoeletrica #universoeletrico",
   "keywords": [
-    "lightning strike storm",
-    "lightning hitting building",
-    "industrial factory roof",
-    "lightning rod rooftop",
-    "copper grounding cable",
-    "grounding rod earth",
-    "burned electrical panel",
-    "engineer blueprinting safety",
-    "industrial control room",
-    "electrician smiling worker"
+    "light bulb",
+    "power plant",
+    "transformer",
+    "power lines",
+    "electricity pylons",
+    "substation",
+    "electrical equipment",
+    "utility pole",
+    "electricity meter",
+    "circuit breaker",
+    "light switch",
+    "electrician"
   ],
   "cenas": [
     {
       "inicio_s": 0.0,
-      "fim_s": 6.41,
-      "texto": "Você sabia que um raio pode atingir uma temperatura cinco vezes mais quente que a superfície do Sol?",
-      "busca": "lightning strike storm",
-      "imagem": "Pixabay 283428"
+      "fim_s": 5.76,
+      "texto": "Você já parou para pensar em como a eletricidade viaja até acender a lâmpada da sua sala?",
+      "busca": "light bulb",
+      "imagem": "Pixabay 113"
     },
     {
-      "inicio_s": 6.41,
-      "fim_s": 9.99,
-      "texto": "Essa descarga elétrica monstruosa carrega milhões de volts capazes de destruir qualquer construção desprotegida.",
-      "busca": "lightning hitting building",
-      "imagem": "Pixabay 250395"
+      "inicio_s": 5.76,
+      "fim_s": 12.22,
+      "texto": "Tudo começa em grandes usinas geradoras, que transformam fontes primárias em energia elétrica pura.",
+      "busca": "power plant",
+      "imagem": "Pixabay 128312"
     },
     {
-      "inicio_s": 9.99,
-      "fim_s": 13.56,
-      "texto": "Essa descarga elétrica monstruosa carrega milhões de volts capazes de destruir qualquer construção desprotegida.",
-      "busca": "lightning hitting building",
-      "imagem": "Pixabay 283426"
+      "inicio_s": 12.22,
+      "fim_s": 17.9,
+      "texto": "Essa energia sai da usina e passa por imensos transformadores que elevam a sua tensão.",
+      "busca": "transformer",
+      "imagem": "Pixabay 53375"
     },
     {
-      "inicio_s": 13.56,
-      "fim_s": 16.94,
-      "texto": "É exatamente por isso que o sistema de proteção contra descargas atmosféricas é obrigatório na indústria.",
-      "busca": "industrial factory roof",
-      "imagem": "Pixabay 88240"
+      "inicio_s": 17.9,
+      "fim_s": 23.94,
+      "texto": "Linhas de transmissão de alta voltagem transportam essa eletricidade por centenas de quilômetros.",
+      "busca": "power lines",
+      "imagem": "Pixabay 91282"
     },
     {
-      "inicio_s": 16.94,
-      "fim_s": 20.31,
-      "texto": "É exatamente por isso que o sistema de proteção contra descargas atmosféricas é obrigatório na indústria.",
-      "busca": "industrial factory roof",
-      "imagem": "Pixabay 34126"
+      "inicio_s": 23.94,
+      "fim_s": 29.54,
+      "texto": "Torres metálicas gigantes sustentam esses cabos cortando o horizonte do país inteiro.",
+      "busca": "electricity pylons",
+      "imagem": "Pixabay 85824"
     },
     {
-      "inicio_s": 20.31,
-      "fim_s": 26.76,
-      "texto": "Conhecido popularmente como para-raios, o captor fica na parte mais alta para atrair a descarga.",
-      "busca": "lightning rod rooftop",
-      "imagem": "Pixabay 155015"
+      "inicio_s": 29.54,
+      "fim_s": 35.04,
+      "texto": "Ao se aproximar das cidades, a energia chega às subestações de distribuição.",
+      "busca": "substation",
+      "imagem": "Pixabay 343932"
     },
     {
-      "inicio_s": 26.76,
-      "fim_s": 30.21,
-      "texto": "A corrente elétrica não passa pela estrutura do prédio, sendo guiada com segurança pelos cabos de descida.",
-      "busca": "copper grounding cable",
-      "imagem": "Pixabay 375838"
+      "inicio_s": 35.04,
+      "fim_s": 40.56,
+      "texto": "Lá, a tensão é reduzida para níveis mais seguros antes de seguir para as ruas.",
+      "busca": "electrical equipment",
+      "imagem": "Pixabay 150367"
     },
     {
-      "inicio_s": 30.21,
-      "fim_s": 33.66,
-      "texto": "A corrente elétrica não passa pela estrutura do prédio, sendo guiada com segurança pelos cabos de descida.",
-      "busca": "copper grounding cable",
-      "imagem": "Pixabay 214996"
+      "inicio_s": 40.56,
+      "fim_s": 45.56,
+      "texto": "Os postes de energia nas ruas levam os fios até a entrada do seu imóvel.",
+      "busca": "utility pole",
+      "imagem": "Pixabay 42479"
     },
     {
-      "inicio_s": 33.66,
-      "fim_s": 37.09,
-      "texto": "Toda essa energia gigantesca precisa ser dissipada rapidamente no solo através das hastes de aterramento.",
-      "busca": "grounding rod earth",
-      "imagem": "Pixabay 201404"
+      "inicio_s": 45.56,
+      "fim_s": 51.5,
+      "texto": "Antes de entrar na sua casa, a corrente passa pelo medidor que registra todo o seu consumo.",
+      "busca": "electricity meter",
+      "imagem": "Pixabay 27467"
     },
     {
-      "inicio_s": 37.09,
-      "fim_s": 40.51,
-      "texto": "Toda essa energia gigantesca precisa ser dissipada rapidamente no solo através das hastes de aterramento.",
-      "busca": "grounding rod earth",
-      "imagem": "Pixabay 273687"
+      "inicio_s": 51.5,
+      "fim_s": 54.76,
+      "texto": "Finalmente, a energia chega ao quadro de distribuição, protegida por disjuntores modernos.",
+      "busca": "circuit breaker",
+      "imagem": "Pixabay 159674"
     },
     {
-      "inicio_s": 40.51,
-      "fim_s": 43.86,
-      "texto": "Sem um bom sistema de aterramento, a energia invade os equipamentos e causa prejuízos milionários.",
-      "busca": "burned electrical panel",
-      "imagem": "Pixabay 3013"
+      "inicio_s": 54.76,
+      "fim_s": 58.01,
+      "texto": "Finalmente, a energia chega ao quadro de distribuição, protegida por disjuntores modernos.",
+      "busca": "circuit breaker",
+      "imagem": "Pixabay 86252"
     },
     {
-      "inicio_s": 43.86,
-      "fim_s": 47.2,
-      "texto": "Sem um bom sistema de aterramento, a energia invade os equipamentos e causa prejuízos milionários.",
-      "busca": "burned electrical panel",
-      "imagem": "Pixabay 20263"
+      "inicio_s": 58.01,
+      "fim_s": 63.69,
+      "texto": "E assim, com um simples clique no interruptor, a magia da tecnologia acontece.",
+      "busca": "light switch",
+      "imagem": "Pixabay 378976"
     },
     {
-      "inicio_s": 47.2,
-      "fim_s": 50.48,
-      "texto": "Engenheiros calculam cada detalhe usando normas técnicas rigorosas para garantir a eficácia da proteção.",
-      "busca": "engineer blueprinting safety",
-      "imagem": "Pixabay 285977"
-    },
-    {
-      "inicio_s": 50.48,
-      "fim_s": 53.76,
-      "texto": "Engenheiros calculam cada detalhe usando normas técnicas rigorosas para garantir a eficácia da proteção.",
-      "busca": "engineer blueprinting safety",
-      "imagem": "Pixabay 39183"
-    },
-    {
-      "inicio_s": 53.76,
-      "fim_s": 57.12,
-      "texto": "Afinal, a segurança humana e a continuidade da operação industrial dependem diretamente dessa física.",
-      "busca": "industrial control room",
-      "imagem": "Pixabay 86867"
-    },
-    {
-      "inicio_s": 57.12,
-      "fim_s": 60.49,
-      "texto": "Afinal, a segurança humana e a continuidade da operação industrial dependem diretamente dessa física.",
-      "busca": "industrial control room",
-      "imagem": "Pixabay 126924"
-    },
-    {
-      "inicio_s": 60.49,
-      "fim_s": 64.21,
+      "inicio_s": 63.69,
+      "fim_s": 67.43,
       "texto": "Siga o Universo Elétrico para aprender mais.",
-      "busca": "electrician smiling worker",
+      "busca": "electrician",
       "imagem": "marca Universo Elétrico"
     }
   ],
   "ia": "gemini-flash-lite-latest",
-  "palavras": 146,
+  "palavras": 162,
   "voz": "pt-BR-AntonioNeural",
-  "duracao_s": 64.21,
+  "duracao_s": 67.43,
   "resolucao": "1080x1920",
   "videos_pixabay": [
     {
-      "fonte": "Pixabay 283428",
-      "pagina": "https://pixabay.com/videos/id-283428/",
-      "autor": "adege",
-      "query": "lightning strike storm",
+      "fonte": "Pixabay 113",
+      "pagina": "https://pixabay.com/videos/id-113/",
+      "autor": "Coverr-Free-Footage",
+      "query": "light bulb",
       "origem": "1920x1080 horizontal (corte central)"
     },
     {
-      "fonte": "Pixabay 250395",
-      "pagina": "https://pixabay.com/videos/id-250395/",
-      "autor": "Kanenori",
-      "query": "lightning hitting building",
-      "origem": "1080x1920 vertical"
-    },
-    {
-      "fonte": "Pixabay 283426",
-      "pagina": "https://pixabay.com/videos/id-283426/",
-      "autor": "adege",
-      "query": "lightning hitting building",
+      "fonte": "Pixabay 128312",
+      "pagina": "https://pixabay.com/videos/id-128312/",
+      "autor": "Al3xanderD",
+      "query": "power plant",
       "origem": "1920x1080 horizontal (corte central)"
     },
     {
-      "fonte": "Pixabay 88240",
-      "pagina": "https://pixabay.com/videos/id-88240/",
-      "autor": "Digital_Expert",
-      "query": "industrial factory roof",
+      "fonte": "Pixabay 53375",
+      "pagina": "https://pixabay.com/videos/id-53375/",
+      "autor": "Close-UpStock",
+      "query": "transformer",
       "origem": "1920x1080 horizontal (corte central)"
     },
     {
-      "fonte": "Pixabay 34126",
-      "pagina": "https://pixabay.com/videos/id-34126/",
-      "autor": "FilipFilipovic",
-      "query": "industrial factory roof",
+      "fonte": "Pixabay 91282",
+      "pagina": "https://pixabay.com/videos/id-91282/",
+      "autor": "Kaffeesüchtig",
+      "query": "power lines",
       "origem": "1920x1080 horizontal (corte central)"
     },
     {
-      "fonte": "Pixabay 155015",
-      "pagina": "https://pixabay.com/videos/id-155015/",
-      "autor": "Engin_Akyurt",
-      "query": "lightning rod rooftop",
-      "origem": "1080x1920 vertical"
+      "fonte": "Pixabay 85824",
+      "pagina": "https://pixabay.com/videos/id-85824/",
+      "autor": "YakupIpek",
+      "query": "electricity pylons",
+      "origem": "1620x1080 horizontal (corte central)"
     },
     {
-      "fonte": "Pixabay 375838",
-      "pagina": "https://pixabay.com/videos/id-375838/",
-      "autor": "Matthias_Groeneveld",
-      "query": "copper grounding cable",
-      "origem": "1080x1920 vertical"
-    },
-    {
-      "fonte": "Pixabay 214996",
-      "pagina": "https://pixabay.com/videos/id-214996/",
-      "autor": "spinheike",
-      "query": "copper grounding cable",
-      "origem": "1080x1920 vertical"
-    },
-    {
-      "fonte": "Pixabay 201404",
-      "pagina": "https://pixabay.com/videos/id-201404/",
-      "autor": "Nerd_Nonsense",
-      "query": "grounding rod earth",
-      "origem": "1080x1920 vertical"
-    },
-    {
-      "fonte": "Pixabay 273687",
-      "pagina": "https://pixabay.com/videos/id-273687/",
-      "autor": "lursumr",
-      "query": "grounding rod earth",
-      "origem": "1080x1920 vertical"
-    },
-    {
-      "fonte": "Pixabay 3013",
-      "pagina": "https://pixabay.com/videos/id-3013/",
-      "autor": "InspiredImages",
-      "query": "burned electrical panel",
+      "fonte": "Pixabay 343932",
+      "pagina": "https://pixabay.com/videos/id-343932/",
+      "autor": "mrpixel000",
+      "query": "substation",
       "origem": "1920x1080 horizontal (corte central)"
     },
     {
-      "fonte": "Pixabay 20263",
-      "pagina": "https://pixabay.com/videos/id-20263/",
-      "autor": "Matthias_Groeneveld",
-      "query": "burned electrical panel",
+      "fonte": "Pixabay 150367",
+      "pagina": "https://pixabay.com/videos/id-150367/",
+      "autor": "blackmarketmusic",
+      "query": "electrical equipment",
       "origem": "1920x1080 horizontal (corte central)"
     },
     {
-      "fonte": "Pixabay 285977",
-      "pagina": "https://pixabay.com/videos/id-285977/",
-      "autor": "Matthias_Groeneveld",
-      "query": "engineer blueprinting safety",
-      "origem": "1080x1920 vertical"
-    },
-    {
-      "fonte": "Pixabay 39183",
-      "pagina": "https://pixabay.com/videos/id-39183/",
-      "autor": "movadspro",
-      "query": "engineer blueprinting safety",
+      "fonte": "Pixabay 42479",
+      "pagina": "https://pixabay.com/videos/id-42479/",
+      "autor": "DesignScape",
+      "query": "power lines street",
       "origem": "1920x1080 horizontal (corte central)"
     },
     {
-      "fonte": "Pixabay 86867",
-      "pagina": "https://pixabay.com/videos/id-86867/",
-      "autor": "atiqurrahman0047",
-      "query": "industrial control room",
-      "origem": "1080x1920 vertical"
+      "fonte": "Pixabay 27467",
+      "pagina": "https://pixabay.com/videos/id-27467/",
+      "autor": "Bastien86",
+      "query": "electricity meter",
+      "origem": "1920x1080 horizontal (corte central)"
     },
     {
-      "fonte": "Pixabay 126924",
-      "pagina": "https://pixabay.com/videos/id-126924/",
-      "autor": "Mabelle-Elise",
-      "query": "industrial control room",
-      "origem": "1080x1920 vertical"
+      "fonte": "Pixabay 159674",
+      "pagina": "https://pixabay.com/videos/id-159674/",
+      "autor": "CreativeCommonsCentral",
+      "query": "electrician",
+      "origem": "1920x1080 horizontal (corte central)"
+    },
+    {
+      "fonte": "Pixabay 86252",
+      "pagina": "https://pixabay.com/videos/id-86252/",
+      "autor": "lumosajans",
+      "query": "electrician",
+      "origem": "1920x1080 horizontal (corte central)"
+    },
+    {
+      "fonte": "Pixabay 378976",
+      "pagina": "https://pixabay.com/videos/id-378976/",
+      "autor": "computergottyt",
+      "query": "light switch",
+      "origem": "1920x1080 horizontal (corte central)"
     }
   ]
 }
