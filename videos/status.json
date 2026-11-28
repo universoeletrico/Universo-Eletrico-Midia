@@ -1,30 +1,18 @@
 {
-  "pedido": "auto2-20261128-030733",
-  "estado": "erro",
-  "etapa": "roteiro",
-  "etapa_n": 2,
+  "pedido": "auto3-20261128-031242",
+  "estado": "executando",
+  "etapa": "tendencias",
+  "etapa_n": 1,
   "total_etapas": 6,
-  "iniciado_em": "2026-11-28T03:08:22-03:00",
-  "atualizado_em": "2026-11-28T03:10:24-03:00",
+  "iniciado_em": "2026-11-28T03:13:27-03:00",
+  "atualizado_em": "2026-11-28T03:13:27-03:00",
   "log": [
     {
-      "hora": "03:08:22",
+      "hora": "03:13:27",
       "msg": "Etapa 1/6: Buscando temas em alta"
-    },
-    {
-      "hora": "03:08:24",
-      "msg": "Temas (google_trends_rss): office | ring | travel | pizza | river"
-    },
-    {
-      "hora": "03:08:24",
-      "msg": "Etapa 2/6: Escrevendo roteiro e legenda"
-    },
-    {
-      "hora": "03:10:24",
-      "msg": "Erro: O Gemini nao gerou um roteiro valido: Roteiro com 141 palavras (alvo 175)."
     }
   ],
-  "erro": "O Gemini nao gerou um roteiro valido: Roteiro com 141 palavras (alvo 175).",
+  "erro": "",
   "resultado": null,
   "ultimo_video": null,
   "modo": "automatico"
