@@ -1,11 +1,11 @@
 {
   "pedido": "manual3-20261128-035041",
   "estado": "executando",
-  "etapa": "renderizacao",
-  "etapa_n": 5,
+  "etapa": "envio",
+  "etapa_n": 6,
   "total_etapas": 6,
   "iniciado_em": "2026-11-28T03:51:24-03:00",
-  "atualizado_em": "2026-11-28T03:51:34-03:00",
+  "atualizado_em": "2026-11-28T03:53:49-03:00",
   "log": [
     {
       "hora": "03:51:24",
@@ -42,6 +42,14 @@
     {
       "hora": "03:51:34",
       "msg": "Etapa 5/6: Renderizando no FFmpeg"
+    },
+    {
+      "hora": "03:53:49",
+      "msg": "Vídeo renderizado: 72.0 s, 19.9 MB, 17 cenas."
+    },
+    {
+      "hora": "03:53:49",
+      "msg": "Etapa 6/6: Salvando no repositório de mídia"
     }
   ],
   "erro": "",
