@@ -1,71 +1,20 @@
 {
-  "pedido": "auto3-20261128-031242",
-  "estado": "concluido",
-  "etapa": "concluido",
-  "etapa_n": 6,
+  "pedido": "manual-20261128-031936",
+  "estado": "executando",
+  "etapa": "roteiro",
+  "etapa_n": 2,
   "total_etapas": 6,
-  "iniciado_em": "2026-11-28T03:13:27-03:00",
-  "atualizado_em": "2026-11-28T03:17:41-03:00",
+  "iniciado_em": "2026-11-28T03:20:13-03:00",
+  "atualizado_em": "2026-11-28T03:20:13-03:00",
   "log": [
     {
-      "hora": "03:13:27",
-      "msg": "Etapa 1/6: Buscando temas em alta"
-    },
-    {
-      "hora": "03:13:29",
-      "msg": "Temas (reserva): conta de luz | apagão | carro elétrico | energia solar | inteligência artificial na indústria"
-    },
-    {
-      "hora": "03:13:29",
+      "hora": "03:20:13",
       "msg": "Etapa 2/6: Escrevendo roteiro e legenda"
-    },
-    {
-      "hora": "03:15:33",
-      "msg": "Roteiro escrito pelo Gemini (gemini-flash-lite-latest)."
-    },
-    {
-      "hora": "03:15:33",
-      "msg": "Tema: inteligencia artificial na industria (147 palavras, cerca de 59 s)"
-    },
-    {
-      "hora": "03:15:33",
-      "msg": "Palavras-chave: industrial robotics, factory automation, smart manufacturing, control room, futuristic technology"
-    },
-    {
-      "hora": "03:15:33",
-      "msg": "Etapa 3/6: Gerando narração"
-    },
-    {
-      "hora": "03:15:43",
-      "msg": "Narração pronta: 147 palavras sincronizadas."
-    },
-    {
-      "hora": "03:15:43",
-      "msg": "Etapa 4/6: Baixando vídeos da Pixabay"
-    },
-    {
-      "hora": "03:15:46",
-      "msg": "Etapa 5/6: Renderizando no FFmpeg"
-    },
-    {
-      "hora": "03:17:34",
-      "msg": "Vídeo renderizado: 60.9 s, 16.0 MB."
-    },
-    {
-      "hora": "03:17:34",
-      "msg": "Etapa 6/6: Salvando no repositório de mídia"
-    },
-    {
-      "hora": "03:17:41",
-      "msg": "Enviado ao repositório de mídia: https://github.com/universoeletrico/Universo-Eletrico-Midia/blob/videos/videos/video_viral.mp4"
-    },
-    {
-      "hora": "03:17:41",
-      "msg": "Vídeo pronto."
     }
   ],
   "erro": "",
-  "resultado": {
+  "resultado": null,
+  "ultimo_video": {
     "tema": "inteligencia artificial na industria",
     "legenda": "A inteligencia artificial esta redefinindo os limites da automacao industrial e da engenharia eletrica. A capacidade de prever falhas e otimizar o consumo de energia em tempo real ja e uma realidade nas fabricas mais modernas do pais.\n\nProfissionais que se adaptam a essas novas tecnologias encontram espaco garantido em um mercado cada vez mais competitivo e exigente. O futuro da eletricidade e da industria passa direto pelas decisoes tomadas por algoritmos inteligentes.\n\nVoce ja trabalha com sistemas inteligentes na sua empresa ou ainda usa metodos tradicionais de manutencao? Conte para nos nos comentarios.\n\nSiga @universoeletrico.br para ficar por dentro de tudo sobre eletrica e tecnologia.\n\n#industria40 #automacaoindustrial #inteligenciaartificial #eletrica #engenhariaeletrica #tecnologia #manutencaopreventiva",
     "roteiro": "A inteligencia artificial esta mudando completamente o chao de fabrica e a automacao industrial no Brasil. Nao se trata apenas de robos montando pecas, mas de sistemas inteligentes que previnem falhas antes mesmo de acontecerem. Sensores conectados monitoram a temperatura e a vibracao de motores eletricos em tempo real. Quando um parametro foge do normal, o algoritmo avisa a equipe de manutencao imediatamente. Isso evita paradas nao programadas que custam muito caro para as empresas. A eficiencia energetica tambem melhora drasticamente, pois a maquina aprende a consumir apenas a energia necessaria para operar no maximo desempenho. Quem trabalha com eletricidade e automacao precisa dominar essas novas ferramentas para nao ficar para tras no mercado de trabalho. A tecnologia avanca rapido e transforma a nossa rotina profissional todos os dias. Fique atento as proximas inovacoes que vao revolucionar o setor produtivo. Siga o Universo Eletrico para aprender mais.",
@@ -75,6 +24,5 @@
     "video_path": "videos/video_viral.mp4",
     "video_commit": "ddc6e5a7982c1d7043bcc9dee930ab8996fbe16c"
   },
-  "ultimo_video": null,
-  "modo": "automatico"
+  "modo": "manual"
 }
