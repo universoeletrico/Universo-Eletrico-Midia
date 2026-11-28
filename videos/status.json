@@ -1,11 +1,11 @@
 {
   "pedido": "auto4-20261128-032322",
-  "estado": "executando",
-  "etapa": "envio",
+  "estado": "concluido",
+  "etapa": "concluido",
   "etapa_n": 6,
   "total_etapas": 6,
   "iniciado_em": "2026-11-28T03:24:01-03:00",
-  "atualizado_em": "2026-11-28T03:27:48-03:00",
+  "atualizado_em": "2026-11-28T03:27:55-03:00",
   "log": [
     {
       "hora": "03:24:01",
@@ -54,10 +54,27 @@
     {
       "hora": "03:27:48",
       "msg": "Etapa 6/6: Salvando no repositório de mídia"
+    },
+    {
+      "hora": "03:27:55",
+      "msg": "Enviado ao repositório de mídia: https://github.com/universoeletrico/Universo-Eletrico-Midia/blob/videos/videos/video_viral.mp4"
+    },
+    {
+      "hora": "03:27:55",
+      "msg": "Vídeo pronto."
     }
   ],
   "erro": "",
-  "resultado": null,
+  "resultado": {
+    "tema": "inteligência artificial na indústria",
+    "legenda": "A inteligência artificial invadiu a indústria e está mudando completamente a forma como produzimos. A manutenção preditiva e os sistemas autônomos já são uma realidade nas grandes fábricas.\n\nVocê acredita que a sua profissão está preparada para essa nova revolução tecnológica ou acha que ainda vai demorar para chegar na sua região?\n\nDeixe sua opinião nos comentários e siga o Universo Elétrico para aprender mais.\n\n#automacaoindustrial #inteligenciaartificial #engenhariaeletrica #tecnologia #industria40 #inovacao #eletricidade",
+    "roteiro": "A inteligência artificial está transformando o chão de fábrica de uma maneira que você nunca viu antes. As máquinas agora pensam, agem e corrigem falhas sozinhas em tempo real, reduzindo paradas não programadas e otimizando a produção como nunca. Sinais vitais de motores elétricos são monitorados por algoritmos avançados que detectam o menor sinal de desgaste antes mesmo que a peça quebre. Isso significa economia milionária para as empresas e mais segurança para os operadores. A automação industrial deixou de ser apenas robôs repetitivos para se tornar um ecossistema inteligente, autônomo e altamente conectado. Quem não se adaptar a essa nova realidade tecnológica vai ficar para trás no mercado de trabalho e na competitividade global. A revolução digital já começou nas linhas de montagem do Brasil e do mundo. O futuro da engenharia exige profissionais preparados para gerenciar essas novas tecnologias todos os dias. Siga o Universo Elétrico para aprender mais.",
+    "duracao_s": 61.76,
+    "tamanho_mb": 20.3,
+    "gerado_em": "2026-11-28T03:27:48-03:00",
+    "video_path": "videos/video_viral.mp4",
+    "video_commit": "453801f02e3471fbf9dbc3577e85601f100cb8ce"
+  },
   "ultimo_video": {
     "tema": "Você já parou para pensar no caminho que a energia faz até chegar...",
     "legenda": "⚡ Da usina até a sua tomada: você sabe quantas etapas a energia percorre?\n\nGeração, transformadores elevadores, linhas de transmissão, subestações, rede de distribuição e, por fim, o quadro da sua casa. Tudo isso em uma fração de segundo!\n\nQual dessas etapas você já viu de perto? Conta aqui nos comentários 👇\n\nSiga @universoeletrico.br para aprender elétrica de um jeito simples.\n\n#universoeletrico #eletrica #energia #transmissao #subestacao #eletricista #engenhariaeletrica",
