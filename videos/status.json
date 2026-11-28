@@ -1,15 +1,31 @@
 {
   "pedido": "manual-20261128-031936",
   "estado": "executando",
-  "etapa": "roteiro",
-  "etapa_n": 2,
+  "etapa": "audio",
+  "etapa_n": 3,
   "total_etapas": 6,
   "iniciado_em": "2026-11-28T03:20:13-03:00",
-  "atualizado_em": "2026-11-28T03:20:13-03:00",
+  "atualizado_em": "2026-11-28T03:20:15-03:00",
   "log": [
     {
       "hora": "03:20:13",
       "msg": "Etapa 2/6: Escrevendo roteiro e legenda"
+    },
+    {
+      "hora": "03:20:15",
+      "msg": "Modo manual: usando o roteiro colado no painel (sem IA)."
+    },
+    {
+      "hora": "03:20:15",
+      "msg": "Tema: Você já parou para pensar no caminho que a energia faz até chegar... (170 palavras, cerca de 68 s)"
+    },
+    {
+      "hora": "03:20:15",
+      "msg": "Palavras-chave: power lines, electrical substation, power plant, electricity pole, city lights at night"
+    },
+    {
+      "hora": "03:20:15",
+      "msg": "Etapa 3/6: Gerando narração"
     }
   ],
   "erro": "",
