@@ -1,11 +1,11 @@
 {
   "pedido": "manual3-20261128-035041",
   "estado": "executando",
-  "etapa": "audio",
-  "etapa_n": 3,
+  "etapa": "videos",
+  "etapa_n": 4,
   "total_etapas": 6,
   "iniciado_em": "2026-11-28T03:51:24-03:00",
-  "atualizado_em": "2026-11-28T03:51:26-03:00",
+  "atualizado_em": "2026-11-28T03:51:28-03:00",
   "log": [
     {
       "hora": "03:51:24",
@@ -26,6 +26,14 @@
     {
       "hora": "03:51:26",
       "msg": "Etapa 3/6: Gerando narração"
+    },
+    {
+      "hora": "03:51:28",
+      "msg": "Narração pronta: 169 palavras, 17 cenas."
+    },
+    {
+      "hora": "03:51:28",
+      "msg": "Etapa 4/6: Baixando vídeos da Pixabay"
     }
   ],
   "erro": "",
