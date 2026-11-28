@@ -1,11 +1,11 @@
 {
   "pedido": "auto6-20261128-035432",
-  "estado": "executando",
-  "etapa": "envio",
+  "estado": "concluido",
+  "etapa": "concluido",
   "etapa_n": 6,
   "total_etapas": 6,
   "iniciado_em": "2026-11-28T03:55:21-03:00",
-  "atualizado_em": "2026-11-28T03:59:36-03:00",
+  "atualizado_em": "2026-11-28T03:59:44-03:00",
   "log": [
     {
       "hora": "03:55:21",
@@ -58,10 +58,27 @@
     {
       "hora": "03:59:36",
       "msg": "Etapa 6/6: Salvando no repositório de mídia"
+    },
+    {
+      "hora": "03:59:44",
+      "msg": "Enviado ao repositório de mídia: https://github.com/universoeletrico/Universo-Eletrico-Midia/blob/videos/videos/video_viral.mp4"
+    },
+    {
+      "hora": "03:59:44",
+      "msg": "Vídeo pronto."
     }
   ],
   "erro": "",
-  "resultado": null,
+  "resultado": {
+    "tema": "raios e para-raios",
+    "legenda": "Os raios são um dos fenômenos mais impressionantes da natureza e representam um risco real para qualquer estrutura industrial ou residencial.\n\nO para-raios e o sistema de aterramento trabalham juntos para criar um caminho seguro, desviando milhões de volts diretamente para o solo.\n\nVocê já parou para reparar como é feita a proteção contra raios na sua empresa ou na sua rua? Deixe sua resposta nos comentários.\n\nSiga o Universo Elétrico para aprender mais.\n\n#universoeletrico #eletrica #engenhariaeletrica #automacaoindustrial #raios #pararaios #segurancaeletrica #tecnologia",
+    "roteiro": "Você sabia que um raio pode atingir uma temperatura cinco vezes mais quente que a superfície do Sol? Essa descarga elétrica monstruosa carrega milhões de volts capazes de destruir qualquer construção desprotegida. É exatamente por isso que o sistema de proteção contra descargas atmosféricas é obrigatório na indústria. Conhecido popularmente como para-raios, o captor fica na parte mais alta para atrair a descarga. A corrente elétrica não passa pela estrutura do prédio, sendo guiada com segurança pelos cabos de descida. Toda essa energia gigantesca precisa ser dissipada rapidamente no solo através das hastes de aterramento. Sem um bom sistema de aterramento, a energia invade os equipamentos e causa prejuízos milionários. Engenheiros calculam cada detalhe usando normas técnicas rigorosas para garantir a eficácia da proteção. Afinal, a segurança humana e a continuidade da operação industrial dependem diretamente dessa física. Siga o Universo Elétrico para aprender mais.",
+    "duracao_s": 64.21,
+    "tamanho_mb": 17.5,
+    "gerado_em": "2026-11-28T03:59:36-03:00",
+    "video_path": "videos/video_viral.mp4",
+    "video_commit": "16de1ebd70e4edbc6a27a3e565b9daff7b8c6469"
+  },
   "ultimo_video": {
     "tema": "Você já parou para pensar no caminho que a energia faz até chegar...",
     "legenda": "Você já parou para pensar no caminho que a energia faz até chegar à sua tomada? Tudo começa numa usina, que pode ser hidrelétrica, eólica, solar ou térmica.\n\nO que você acha? Conta aqui nos comentários!\n\nSiga @universoeletrico.br para aprender mais.\n\n#universoeletrico #eletrica #tecnologia #energia #curiosidades",
