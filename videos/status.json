@@ -1,11 +1,11 @@
 {
   "pedido": "auto2-20261128-030733",
-  "estado": "executando",
+  "estado": "erro",
   "etapa": "roteiro",
   "etapa_n": 2,
   "total_etapas": 6,
   "iniciado_em": "2026-11-28T03:08:22-03:00",
-  "atualizado_em": "2026-11-28T03:08:24-03:00",
+  "atualizado_em": "2026-11-28T03:10:24-03:00",
   "log": [
     {
       "hora": "03:08:22",
@@ -18,9 +18,13 @@
     {
       "hora": "03:08:24",
       "msg": "Etapa 2/6: Escrevendo roteiro e legenda"
+    },
+    {
+      "hora": "03:10:24",
+      "msg": "Erro: O Gemini nao gerou um roteiro valido: Roteiro com 141 palavras (alvo 175)."
     }
   ],
-  "erro": "",
+  "erro": "O Gemini nao gerou um roteiro valido: Roteiro com 141 palavras (alvo 175).",
   "resultado": null,
   "ultimo_video": null,
   "modo": "automatico"
