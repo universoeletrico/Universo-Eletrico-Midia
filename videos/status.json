@@ -1,15 +1,31 @@
 {
   "pedido": "manual3-20261128-035041",
   "estado": "executando",
-  "etapa": "roteiro",
-  "etapa_n": 2,
+  "etapa": "audio",
+  "etapa_n": 3,
   "total_etapas": 6,
   "iniciado_em": "2026-11-28T03:51:24-03:00",
-  "atualizado_em": "2026-11-28T03:51:24-03:00",
+  "atualizado_em": "2026-11-28T03:51:26-03:00",
   "log": [
     {
       "hora": "03:51:24",
       "msg": "Etapa 2/6: Escrevendo roteiro e legenda"
+    },
+    {
+      "hora": "03:51:26",
+      "msg": "Modo manual: usando o roteiro colado no painel (sem IA)."
+    },
+    {
+      "hora": "03:51:26",
+      "msg": "Tema: Você já parou para pensar no caminho que a energia faz até chegar... (170 palavras, cerca de 68 s)"
+    },
+    {
+      "hora": "03:51:26",
+      "msg": "11 cenas; buscas: power outlet, hydroelectric dam, electric generator, power lines, power transformer, power lines, power transformer, power transformer, fuse box, light switch, (dicionário vazio)"
+    },
+    {
+      "hora": "03:51:26",
+      "msg": "Etapa 3/6: Gerando narração"
     }
   ],
   "erro": "",
