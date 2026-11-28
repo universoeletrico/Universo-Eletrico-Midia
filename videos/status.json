@@ -1,11 +1,11 @@
 {
   "pedido": "auto7-20261128-040049",
   "estado": "executando",
-  "etapa": "renderizacao",
-  "etapa_n": 5,
+  "etapa": "envio",
+  "etapa_n": 6,
   "total_etapas": 6,
   "iniciado_em": "2026-11-28T04:01:35-03:00",
-  "atualizado_em": "2026-11-28T04:04:43-03:00",
+  "atualizado_em": "2026-11-28T04:06:28-03:00",
   "log": [
     {
       "hora": "04:01:36",
@@ -50,6 +50,14 @@
     {
       "hora": "04:04:43",
       "msg": "Etapa 5/6: Renderizando no FFmpeg"
+    },
+    {
+      "hora": "04:06:28",
+      "msg": "Vídeo renderizado: 67.4 s, 16.7 MB, 13 cenas."
+    },
+    {
+      "hora": "04:06:28",
+      "msg": "Etapa 6/6: Salvando no repositório de mídia"
     }
   ],
   "erro": "",
