@@ -1,11 +1,11 @@
 {
   "pedido": "manual-20261128-031936",
-  "estado": "executando",
-  "etapa": "envio",
+  "estado": "concluido",
+  "etapa": "concluido",
   "etapa_n": 6,
   "total_etapas": 6,
   "iniciado_em": "2026-11-28T03:20:13-03:00",
-  "atualizado_em": "2026-11-28T03:21:56-03:00",
+  "atualizado_em": "2026-11-28T03:22:06-03:00",
   "log": [
     {
       "hora": "03:20:13",
@@ -46,10 +46,27 @@
     {
       "hora": "03:21:56",
       "msg": "Etapa 6/6: Salvando no repositório de mídia"
+    },
+    {
+      "hora": "03:22:06",
+      "msg": "Enviado ao repositório de mídia: https://github.com/universoeletrico/Universo-Eletrico-Midia/blob/videos/videos/video_viral.mp4"
+    },
+    {
+      "hora": "03:22:06",
+      "msg": "Vídeo pronto."
     }
   ],
   "erro": "",
-  "resultado": null,
+  "resultado": {
+    "tema": "Você já parou para pensar no caminho que a energia faz até chegar...",
+    "legenda": "⚡ Da usina até a sua tomada: você sabe quantas etapas a energia percorre?\n\nGeração, transformadores elevadores, linhas de transmissão, subestações, rede de distribuição e, por fim, o quadro da sua casa. Tudo isso em uma fração de segundo!\n\nQual dessas etapas você já viu de perto? Conta aqui nos comentários 👇\n\nSiga @universoeletrico.br para aprender elétrica de um jeito simples.\n\n#universoeletrico #eletrica #energia #transmissao #subestacao #eletricista #engenhariaeletrica",
+    "roteiro": "Você já parou para pensar no caminho que a energia faz até chegar à sua tomada? Tudo começa numa usina, que pode ser hidrelétrica, eólica, solar ou térmica. Lá, um gerador transforma movimento em eletricidade. Só que, para viajar centenas de quilômetros sem desperdiçar tanta energia, a tensão precisa subir muito. Quem faz isso são os transformadores elevadores, que levam a tensão a centenas de milhares de volts. Depois, as linhas de transmissão carregam essa energia por torres gigantes até as subestações perto das cidades. Ali, outros transformadores baixam a tensão para a rede de distribuição, aquela que passa pelos postes da sua rua. No poste, mais um transformador reduz a tensão para 127 ou 220 volts, que é o que chega à sua casa. Então, o medidor registra o consumo e o quadro de distribuição divide a energia entre os circuitos, protegidos por disjuntores. Tudo isso acontece em uma fração de segundo, toda vez que você aperta o interruptor. Incrível, não é? Siga o Universo Elétrico para aprender mais.",
+    "duracao_s": 72.04,
+    "tamanho_mb": 22.8,
+    "gerado_em": "2026-11-28T03:21:56-03:00",
+    "video_path": "videos/video_viral.mp4",
+    "video_commit": "a6b551b8a8d401d72ee19b3c9665539e963749aa"
+  },
   "ultimo_video": {
     "tema": "inteligencia artificial na industria",
     "legenda": "A inteligencia artificial esta redefinindo os limites da automacao industrial e da engenharia eletrica. A capacidade de prever falhas e otimizar o consumo de energia em tempo real ja e uma realidade nas fabricas mais modernas do pais.\n\nProfissionais que se adaptam a essas novas tecnologias encontram espaco garantido em um mercado cada vez mais competitivo e exigente. O futuro da eletricidade e da industria passa direto pelas decisoes tomadas por algoritmos inteligentes.\n\nVoce ja trabalha com sistemas inteligentes na sua empresa ou ainda usa metodos tradicionais de manutencao? Conte para nos nos comentarios.\n\nSiga @universoeletrico.br para ficar por dentro de tudo sobre eletrica e tecnologia.\n\n#industria40 #automacaoindustrial #inteligenciaartificial #eletrica #engenhariaeletrica #tecnologia #manutencaopreventiva",
