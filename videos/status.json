@@ -1,67 +1,20 @@
 {
-  "pedido": "manual3-20261128-035041",
-  "estado": "concluido",
-  "etapa": "concluido",
-  "etapa_n": 6,
+  "pedido": "auto6-20261128-035432",
+  "estado": "executando",
+  "etapa": "tendencias",
+  "etapa_n": 1,
   "total_etapas": 6,
-  "iniciado_em": "2026-11-28T03:51:24-03:00",
-  "atualizado_em": "2026-11-28T03:53:58-03:00",
+  "iniciado_em": "2026-11-28T03:55:21-03:00",
+  "atualizado_em": "2026-11-28T03:55:21-03:00",
   "log": [
     {
-      "hora": "03:51:24",
-      "msg": "Etapa 2/6: Escrevendo roteiro e legenda"
-    },
-    {
-      "hora": "03:51:26",
-      "msg": "Modo manual: usando o roteiro colado no painel (sem IA)."
-    },
-    {
-      "hora": "03:51:26",
-      "msg": "Tema: Você já parou para pensar no caminho que a energia faz até chegar... (170 palavras, cerca de 68 s)"
-    },
-    {
-      "hora": "03:51:26",
-      "msg": "11 cenas; buscas: power outlet, hydroelectric dam, electric generator, power lines, power transformer, power lines, power transformer, power transformer, fuse box, light switch, (dicionário vazio)"
-    },
-    {
-      "hora": "03:51:26",
-      "msg": "Etapa 3/6: Gerando narração"
-    },
-    {
-      "hora": "03:51:28",
-      "msg": "Narração pronta: 169 palavras, 17 cenas."
-    },
-    {
-      "hora": "03:51:28",
-      "msg": "Etapa 4/6: Baixando vídeos da Pixabay"
-    },
-    {
-      "hora": "03:51:34",
-      "msg": "Imagens escolhidas: 16 filmagens e 1 artes do feed."
-    },
-    {
-      "hora": "03:51:34",
-      "msg": "Etapa 5/6: Renderizando no FFmpeg"
-    },
-    {
-      "hora": "03:53:49",
-      "msg": "Vídeo renderizado: 72.0 s, 19.9 MB, 17 cenas."
-    },
-    {
-      "hora": "03:53:49",
-      "msg": "Etapa 6/6: Salvando no repositório de mídia"
-    },
-    {
-      "hora": "03:53:58",
-      "msg": "Enviado ao repositório de mídia: https://github.com/universoeletrico/Universo-Eletrico-Midia/blob/videos/videos/video_viral.mp4"
-    },
-    {
-      "hora": "03:53:58",
-      "msg": "Vídeo pronto."
+      "hora": "03:55:21",
+      "msg": "Etapa 1/6: Buscando temas em alta"
     }
   ],
   "erro": "",
-  "resultado": {
+  "resultado": null,
+  "ultimo_video": {
     "tema": "Você já parou para pensar no caminho que a energia faz até chegar...",
     "legenda": "Você já parou para pensar no caminho que a energia faz até chegar à sua tomada? Tudo começa numa usina, que pode ser hidrelétrica, eólica, solar ou térmica.\n\nO que você acha? Conta aqui nos comentários!\n\nSiga @universoeletrico.br para aprender mais.\n\n#universoeletrico #eletrica #tecnologia #energia #curiosidades",
     "roteiro": "Você já parou para pensar no caminho que a energia faz até chegar à sua tomada? Tudo começa numa usina, que pode ser hidrelétrica, eólica, solar ou térmica. Lá, um gerador transforma movimento em eletricidade. Só que, para viajar centenas de quilômetros sem desperdiçar tanta energia, a tensão precisa subir muito. Quem faz isso são os transformadores elevadores, que levam a tensão a centenas de milhares de volts. Depois, as linhas de transmissão carregam essa energia por torres gigantes até as subestações perto das cidades. Ali, outros transformadores baixam a tensão para a rede de distribuição, aquela que passa pelos postes da sua rua. No poste, mais um transformador reduz a tensão para 127 ou 220 volts, que é o que chega à sua casa. Então, o medidor registra o consumo e o quadro de distribuição divide a energia entre os circuitos, protegidos por disjuntores. Tudo isso acontece em uma fração de segundo, toda vez que você aperta o interruptor. Incrível, não é? Siga o Universo Elétrico para aprender mais.",
@@ -71,15 +24,5 @@
     "video_path": "videos/video_viral.mp4",
     "video_commit": "17b190640f3ba287bce61965af38a56a5e936a80"
   },
-  "ultimo_video": {
-    "tema": "Você já parou para pensar no caminho que a energia faz até chegar...",
-    "legenda": "Você já parou para pensar no caminho que a energia faz até chegar à sua tomada? Tudo começa numa usina, que pode ser hidrelétrica, eólica, solar ou térmica.\n\nO que você acha? Conta aqui nos comentários!\n\nSiga @universoeletrico.br para aprender mais.\n\n#universoeletrico #eletrica #tecnologia #energia #curiosidades",
-    "roteiro": "Você já parou para pensar no caminho que a energia faz até chegar à sua tomada? Tudo começa numa usina, que pode ser hidrelétrica, eólica, solar ou térmica. Lá, um gerador transforma movimento em eletricidade. Só que, para viajar centenas de quilômetros sem desperdiçar tanta energia, a tensão precisa subir muito. Quem faz isso são os transformadores elevadores, que levam a tensão a centenas de milhares de volts. Depois, as linhas de transmissão carregam essa energia por torres gigantes até as subestações perto das cidades. Ali, outros transformadores baixam a tensão para a rede de distribuição, aquela que passa pelos postes da sua rua. No poste, mais um transformador reduz a tensão para 127 ou 220 volts, que é o que chega à sua casa. Então, o medidor registra o consumo e o quadro de distribuição divide a energia entre os circuitos, protegidos por disjuntores. Tudo isso acontece em uma fração de segundo, toda vez que você aperta o interruptor. Incrível, não é? Siga o Universo Elétrico para aprender mais.",
-    "duracao_s": 72.04,
-    "tamanho_mb": 20.0,
-    "gerado_em": "2026-11-28T03:47:51-03:00",
-    "video_path": "videos/video_viral.mp4",
-    "video_commit": "63876dc87825cab7e81b01ab6fc4d469d3bcfcc7"
-  },
-  "modo": "manual"
+  "modo": "automatico"
 }
