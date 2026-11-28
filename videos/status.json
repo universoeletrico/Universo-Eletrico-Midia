@@ -1,11 +1,11 @@
 {
   "pedido": "auto-20261128-025854",
   "estado": "executando",
-  "etapa": "videos",
-  "etapa_n": 4,
+  "etapa": "renderizacao",
+  "etapa_n": 5,
   "total_etapas": 6,
   "iniciado_em": "2026-11-28T02:59:39-03:00",
-  "atualizado_em": "2026-11-28T03:04:31-03:00",
+  "atualizado_em": "2026-11-28T03:04:35-03:00",
   "log": [
     {
       "hora": "02:59:40",
@@ -42,6 +42,10 @@
     {
       "hora": "03:04:31",
       "msg": "Etapa 4/6: Baixando vídeos da Pixabay"
+    },
+    {
+      "hora": "03:04:35",
+      "msg": "Etapa 5/6: Renderizando no FFmpeg"
     }
   ],
   "erro": "",
