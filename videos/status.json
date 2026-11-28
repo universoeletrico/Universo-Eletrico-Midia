@@ -1,11 +1,11 @@
 {
   "pedido": "auto7-20261128-040049",
   "estado": "executando",
-  "etapa": "audio",
-  "etapa_n": 3,
+  "etapa": "videos",
+  "etapa_n": 4,
   "total_etapas": 6,
   "iniciado_em": "2026-11-28T04:01:35-03:00",
-  "atualizado_em": "2026-11-28T04:04:18-03:00",
+  "atualizado_em": "2026-11-28T04:04:35-03:00",
   "log": [
     {
       "hora": "04:01:36",
@@ -34,6 +34,14 @@
     {
       "hora": "04:04:18",
       "msg": "Etapa 3/6: Gerando narração"
+    },
+    {
+      "hora": "04:04:35",
+      "msg": "Narração pronta: 162 palavras, 13 cenas."
+    },
+    {
+      "hora": "04:04:35",
+      "msg": "Etapa 4/6: Baixando vídeos da Pixabay"
     }
   ],
   "erro": "",
