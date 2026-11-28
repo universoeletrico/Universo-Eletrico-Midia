@@ -1,11 +1,11 @@
 {
   "pedido": "auto7-20261128-040049",
-  "estado": "executando",
-  "etapa": "envio",
+  "estado": "concluido",
+  "etapa": "concluido",
   "etapa_n": 6,
   "total_etapas": 6,
   "iniciado_em": "2026-11-28T04:01:35-03:00",
-  "atualizado_em": "2026-11-28T04:06:28-03:00",
+  "atualizado_em": "2026-11-28T04:06:38-03:00",
   "log": [
     {
       "hora": "04:01:36",
@@ -58,10 +58,27 @@
     {
       "hora": "04:06:28",
       "msg": "Etapa 6/6: Salvando no repositório de mídia"
+    },
+    {
+      "hora": "04:06:38",
+      "msg": "Enviado ao repositório de mídia: https://github.com/universoeletrico/Universo-Eletrico-Midia/blob/videos/videos/video_viral.mp4"
+    },
+    {
+      "hora": "04:06:38",
+      "msg": "Vídeo pronto."
     }
   ],
   "erro": "",
-  "resultado": null,
+  "resultado": {
+    "tema": "como a energia chega à sua casa",
+    "legenda": "Você já imaginou a jornada incrível que a eletricidade faz desde a usina até a tomada da sua casa? Esse caminho envolve engenharia de ponta, transformadores gigantes e muita tecnologia para garantir segurança.\n\nCada etapa desse processo é rigorosamente controlada para que você tenha energia limpa e estável a qualquer hora do dia.\n\nQual etapa dessa jornada você achou mais impressionante? Conta nos comentários!\n\nSiga @universoeletrico.br para aprender mais sobre o fascinante mundo da eletricidade.\n\n#eletrica #engenhariaeletrica #energiaeletrica #automacaoindustrial #tecnologia #manutencaoeletrica #universoeletrico",
+    "roteiro": "Você já parou para pensar em como a eletricidade viaja até acender a lâmpada da sua sala? Tudo começa em grandes usinas geradoras, que transformam fontes primárias em energia elétrica pura. Essa energia sai da usina e passa por imensos transformadores que elevam a sua tensão. Linhas de transmissão de alta voltagem transportam essa eletricidade por centenas de quilômetros. Torres metálicas gigantes sustentam esses cabos cortando o horizonte do país inteiro. Ao se aproximar das cidades, a energia chega às subestações de distribuição. Lá, a tensão é reduzida para níveis mais seguros antes de seguir para as ruas. Os postes de energia nas ruas levam os fios até a entrada do seu imóvel. Antes de entrar na sua casa, a corrente passa pelo medidor que registra todo o seu consumo. Finalmente, a energia chega ao quadro de distribuição, protegida por disjuntores modernos. E assim, com um simples clique no interruptor, a magia da tecnologia acontece. Siga o Universo Elétrico para aprender mais.",
+    "duracao_s": 67.43,
+    "tamanho_mb": 16.7,
+    "gerado_em": "2026-11-28T04:06:28-03:00",
+    "video_path": "videos/video_viral.mp4",
+    "video_commit": "1895b9ddfbf8bc4e30e3a53f77c22460077199da"
+  },
   "ultimo_video": {
     "tema": "raios e para-raios",
     "legenda": "Os raios são um dos fenômenos mais impressionantes da natureza e representam um risco real para qualquer estrutura industrial ou residencial.\n\nO para-raios e o sistema de aterramento trabalham juntos para criar um caminho seguro, desviando milhões de volts diretamente para o solo.\n\nVocê já parou para reparar como é feita a proteção contra raios na sua empresa ou na sua rua? Deixe sua resposta nos comentários.\n\nSiga o Universo Elétrico para aprender mais.\n\n#universoeletrico #eletrica #engenhariaeletrica #automacaoindustrial #raios #pararaios #segurancaeletrica #tecnologia",
