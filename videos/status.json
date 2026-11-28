@@ -1,58 +1,18 @@
 {
-  "pedido": "auto-20261128-025854",
-  "estado": "erro",
-  "etapa": "renderizacao",
-  "etapa_n": 5,
+  "pedido": "auto2-20261128-030733",
+  "estado": "executando",
+  "etapa": "tendencias",
+  "etapa_n": 1,
   "total_etapas": 6,
-  "iniciado_em": "2026-11-28T02:59:39-03:00",
-  "atualizado_em": "2026-11-28T03:06:06-03:00",
+  "iniciado_em": "2026-11-28T03:08:22-03:00",
+  "atualizado_em": "2026-11-28T03:08:22-03:00",
   "log": [
     {
-      "hora": "02:59:40",
+      "hora": "03:08:22",
       "msg": "Etapa 1/6: Buscando temas em alta"
-    },
-    {
-      "hora": "02:59:42",
-      "msg": "Temas (google_trends_rss): office | cup | ring | travel | pizza"
-    },
-    {
-      "hora": "02:59:42",
-      "msg": "Etapa 2/6: Escrevendo roteiro e legenda"
-    },
-    {
-      "hora": "03:04:15",
-      "msg": "Roteiro escrito pelo Gemini (gemini-flash-latest)."
-    },
-    {
-      "hora": "03:04:15",
-      "msg": "Tema: travel (tempestades e apagões na rede elétrica) (171 palavras, cerca de 68 s)"
-    },
-    {
-      "hora": "03:04:15",
-      "msg": "Palavras-chave: storm lightning power lines, electric utility pole repair, electrical substation storm, lineman working power outage, city blackout aerial"
-    },
-    {
-      "hora": "03:04:15",
-      "msg": "Etapa 3/6: Gerando narração"
-    },
-    {
-      "hora": "03:04:31",
-      "msg": "Narração pronta: 170 palavras sincronizadas."
-    },
-    {
-      "hora": "03:04:31",
-      "msg": "Etapa 4/6: Baixando vídeos da Pixabay"
-    },
-    {
-      "hora": "03:04:35",
-      "msg": "Etapa 5/6: Renderizando no FFmpeg"
-    },
-    {
-      "hora": "03:06:06",
-      "msg": "Erro: FFmpeg falhou: [out#0/mp4 @ 0x5b9f89e5ef00] Error opening output saida_video/video_viral.mp4: No such file or directory\nError opening output file saida_video/video_viral.mp4.\nError opening output files: No such file or directory"
     }
   ],
-  "erro": "FFmpeg falhou: [out#0/mp4 @ 0x5b9f89e5ef00] Error opening output saida_video/video_viral.mp4: No such file or directory\nError opening output file saida_video/video_viral.mp4.\nError opening output files: No such file or directory",
+  "erro": "",
   "resultado": null,
   "ultimo_video": null,
   "modo": "automatico"
