@@ -1,11 +1,11 @@
 {
   "pedido": "auto7-20261128-040049",
   "estado": "executando",
-  "etapa": "videos",
-  "etapa_n": 4,
+  "etapa": "renderizacao",
+  "etapa_n": 5,
   "total_etapas": 6,
   "iniciado_em": "2026-11-28T04:01:35-03:00",
-  "atualizado_em": "2026-11-28T04:04:35-03:00",
+  "atualizado_em": "2026-11-28T04:04:43-03:00",
   "log": [
     {
       "hora": "04:01:36",
@@ -42,6 +42,14 @@
     {
       "hora": "04:04:35",
       "msg": "Etapa 4/6: Baixando vídeos da Pixabay"
+    },
+    {
+      "hora": "04:04:43",
+      "msg": "Imagens escolhidas: 12 filmagens e 1 artes do feed."
+    },
+    {
+      "hora": "04:04:43",
+      "msg": "Etapa 5/6: Renderizando no FFmpeg"
     }
   ],
   "erro": "",
